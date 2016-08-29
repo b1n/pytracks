@@ -1,0 +1,1984 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE trajetorias>
+<trajetorias VERSION="0001" CODE="1961" FORMAT="NEWTON">
+
+    <trajetoria nTrj="1">
+
+        <descricao>001 - LUZ / ALINA</descricao>
+
+        <breakpoint nBrk="1">
+
+            <coord>
+
+                <tipo>L</tipo>
+
+                <campoA>-22.903908</campoA>
+
+                <campoB>-46.469731</campoB>
+
+            </coord>
+
+           <altitude>10000</altitude>
+           <velocidade>210</velocidade>
+
+        </breakpoint>
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>L</tipo>
+                <campoA>-23.463958</campoA>
+                <campoB>-45.658363</campoB>
+            </coord>
+            <altitude>10000</altitude>
+            <velocidade>210</velocidade>
+        </breakpoint>
+        <breakpoint nBrk="3">
+            <coord>
+                <tipo>L</tipo>
+                <campoA>-22.998721</campoA>
+                <campoB>-45.669746</campoB>
+            </coord>
+            <altitude>10000</altitude>
+            <velocidade>210</velocidade>
+        </breakpoint>
+    </trajetoria>
+
+    <trajetoria nTrj="2">
+        <descricao>002 - LUZ / ALINA</descricao>
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>L</tipo>
+                <campoA>-23.014665</campoA>
+                <campoB>-46.186023</campoB>
+            </coord>
+            <altitude>10000</altitude>
+            <velocidade>210</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>L</tipo>
+                <campoA>-23.294799</campoA>
+                <campoB>-45.715223</campoB>
+            </coord>
+            <altitude>8000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+    </trajetoria>
+
+
+    <trajetoria nTrj="10000">
+  		<descricao>0001 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.4378056955</campoA>
+  			<campoB>-45.2430185648</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.0134957049</campoA>
+  			<campoB>-45.6035178162</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.6737233311</campoA>
+  			<campoB>-46.9549481624</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10001">
+  		<descricao>0002 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.1028640016</campoA>
+  			<campoB>-44.6831161179</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.6445361969</campoA>
+  			<campoB>-46.4509327954</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10002">
+  		<descricao>0003 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.04005735</campoA>
+  			<campoB>-46.7074730558</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.6895501294</campoA>
+  			<campoB>-46.7255512209</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10003">
+  		<descricao>0004 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.2755015816</campoA>
+  			<campoB>-45.3018484867</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.0364793723</campoA>
+  			<campoB>-46.1821793908</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.4719698374</campoA>
+  			<campoB>-44.962484621</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="4">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.0948748208</campoA>
+  			<campoB>-46.6548415349</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="5">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.7386742395</campoA>
+  			<campoB>-46.2699677307</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10004">
+  		<descricao>0005 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.5478301066</campoA>
+  			<campoB>-47.1342276626</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.5855429137</campoA>
+  			<campoB>-47.0845354518</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.8522411672</campoA>
+  			<campoB>-45.3539552335</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="4">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.1328821456</campoA>
+  			<campoB>-45.1433169037</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10005">
+  		<descricao>0006 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.3398620476</campoA>
+  			<campoB>-45.883303256</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.4130166594</campoA>
+  			<campoB>-46.8606342302</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.3694228913</campoA>
+  			<campoB>-46.8941371219</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="4">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.6976641389</campoA>
+  			<campoB>-46.0454753946</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="5">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.1362195811</campoA>
+  			<campoB>-44.8098027609</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10006">
+  		<descricao>0007 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.0619025816</campoA>
+  			<campoB>-46.4318736921</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.0452696566</campoA>
+  			<campoB>-47.0020171566</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.4965784121</campoA>
+  			<campoB>-46.7864570981</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="4">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.2934815488</campoA>
+  			<campoB>-45.7896172151</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="5">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.7419686003</campoA>
+  			<campoB>-46.5655655449</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10007">
+  		<descricao>0008 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.9206520623</campoA>
+  			<campoB>-44.6244868504</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.129204076</campoA>
+  			<campoB>-44.8883999979</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10008">
+  		<descricao>0009 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.6883106953</campoA>
+  			<campoB>-46.0464548698</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.9021409548</campoA>
+  			<campoB>-45.8954074181</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.4003949625</campoA>
+  			<campoB>-45.295740629</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10009">
+  		<descricao>0010 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.7350120395</campoA>
+  			<campoB>-45.890326091</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.6243554832</campoA>
+  			<campoB>-46.3509377176</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.1043711046</campoA>
+  			<campoB>-46.6429348207</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10010">
+  		<descricao>0011 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.7261760185</campoA>
+  			<campoB>-46.7204855033</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.1607047422</campoA>
+  			<campoB>-45.7099733445</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.390784687</campoA>
+  			<campoB>-45.2080781662</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="4">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.3983379164</campoA>
+  			<campoB>-44.6409046245</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="5">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.3867081058</campoA>
+  			<campoB>-45.5703192918</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10011">
+  		<descricao>0012 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.1391967298</campoA>
+  			<campoB>-46.9577238167</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.6797641591</campoA>
+  			<campoB>-45.1905793078</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10012">
+  		<descricao>0013 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.9310592502</campoA>
+  			<campoB>-46.7013322042</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.7103930035</campoA>
+  			<campoB>-45.9730754451</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10013">
+  		<descricao>0014 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.8592990983</campoA>
+  			<campoB>-46.7448491924</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.3661946763</campoA>
+  			<campoB>-46.1208445357</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.1652074559</campoA>
+  			<campoB>-45.949736422</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="4">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.713884049</campoA>
+  			<campoB>-45.1130625576</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10014">
+  		<descricao>0015 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.442098199</campoA>
+  			<campoB>-46.3710310454</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.1552897504</campoA>
+  			<campoB>-45.2893306706</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.7453353692</campoA>
+  			<campoB>-45.3732553677</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="4">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.3531202489</campoA>
+  			<campoB>-46.3963568475</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="5">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.3063380677</campoA>
+  			<campoB>-44.991563491</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10015">
+  		<descricao>0016 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.0311211421</campoA>
+  			<campoB>-46.6709384783</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.152030901</campoA>
+  			<campoB>-45.2826306511</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.0569489142</campoA>
+  			<campoB>-45.0866849277</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="4">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.0810639408</campoA>
+  			<campoB>-45.1326298976</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10016">
+  		<descricao>0017 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.5262528647</campoA>
+  			<campoB>-45.2731904678</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.1068654811</campoA>
+  			<campoB>-44.9376539559</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.4822187804</campoA>
+  			<campoB>-46.2860709292</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="4">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.9323394542</campoA>
+  			<campoB>-45.6486975947</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10017">
+  		<descricao>0018 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.0416311215</campoA>
+  			<campoB>-46.3733864047</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.4562504969</campoA>
+  			<campoB>-46.5868611311</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.2207228238</campoA>
+  			<campoB>-46.1851103576</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10018">
+  		<descricao>0019 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.2489624181</campoA>
+  			<campoB>-45.6676353317</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.154331396</campoA>
+  			<campoB>-46.4597094282</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.5574390145</campoA>
+  			<campoB>-46.821247255</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10019">
+  		<descricao>0020 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.9489521224</campoA>
+  			<campoB>-45.2909866983</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.8913874473</campoA>
+  			<campoB>-45.7578342066</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.1706232294</campoA>
+  			<campoB>-47.0010002914</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10020">
+  		<descricao>0021 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.5791487003</campoA>
+  			<campoB>-46.7474264518</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.0839393929</campoA>
+  			<campoB>-45.9791546555</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10021">
+  		<descricao>0022 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.5853721277</campoA>
+  			<campoB>-45.0458983831</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.5431906386</campoA>
+  			<campoB>-44.8999965986</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.1215107596</campoA>
+  			<campoB>-46.2968849369</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="4">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.5794914204</campoA>
+  			<campoB>-44.6505263779</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10022">
+  		<descricao>0023 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.8416154812</campoA>
+  			<campoB>-44.6924160749</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.0245206934</campoA>
+  			<campoB>-45.2918258058</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.499782803</campoA>
+  			<campoB>-46.1665619182</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="4">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.0592783441</campoA>
+  			<campoB>-47.0564438426</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="5">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.7664818435</campoA>
+  			<campoB>-45.774518285</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10023">
+  		<descricao>0024 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.9724411754</campoA>
+  			<campoB>-44.6850989918</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.8683928993</campoA>
+  			<campoB>-46.2228780654</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.1013445152</campoA>
+  			<campoB>-46.4637922384</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10024">
+  		<descricao>0025 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.0430041682</campoA>
+  			<campoB>-44.6715429135</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.3732706334</campoA>
+  			<campoB>-45.2112958297</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.0455589471</campoA>
+  			<campoB>-44.9436656604</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10025">
+  		<descricao>0026 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.8547724571</campoA>
+  			<campoB>-46.7009018922</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.448489293</campoA>
+  			<campoB>-44.6986398937</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.3303634192</campoA>
+  			<campoB>-45.615122466</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10026">
+  		<descricao>0027 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.0854441247</campoA>
+  			<campoB>-46.517002003</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.4367744478</campoA>
+  			<campoB>-44.6530806675</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.9502737833</campoA>
+  			<campoB>-47.1197951799</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="4">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.2346854084</campoA>
+  			<campoB>-45.2588638347</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10027">
+  		<descricao>0028 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.1670425301</campoA>
+  			<campoB>-45.826700028</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.4648442804</campoA>
+  			<campoB>-45.8173151295</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.2163122145</campoA>
+  			<campoB>-46.0793841073</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="4">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.6865255768</campoA>
+  			<campoB>-44.6070692058</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="5">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.1350060231</campoA>
+  			<campoB>-45.1574858481</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10028">
+  		<descricao>0029 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.1365133671</campoA>
+  			<campoB>-45.3977661843</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.7700305802</campoA>
+  			<campoB>-45.814007275</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.2993270718</campoA>
+  			<campoB>-46.1610000112</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10029">
+  		<descricao>0030 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.7588132935</campoA>
+  			<campoB>-44.7005944437</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.4974939298</campoA>
+  			<campoB>-46.3354656078</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.0461589833</campoA>
+  			<campoB>-46.1271370488</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="4">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.9069589184</campoA>
+  			<campoB>-46.7062815522</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="5">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.1254590818</campoA>
+  			<campoB>-46.8788920205</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10030">
+  		<descricao>0031 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.2865266422</campoA>
+  			<campoB>-47.0182728321</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.0830681634</campoA>
+  			<campoB>-46.5942691587</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.2976641238</campoA>
+  			<campoB>-46.1412479437</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10031">
+  		<descricao>0032 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.8597412541</campoA>
+  			<campoB>-45.4738848772</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.6420556836</campoA>
+  			<campoB>-46.5219787685</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.2793850262</campoA>
+  			<campoB>-44.8970405706</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10032">
+  		<descricao>0033 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.1233690646</campoA>
+  			<campoB>-45.8888008538</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.9597313474</campoA>
+  			<campoB>-46.4768030535</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.7853204038</campoA>
+  			<campoB>-46.0529641327</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="4">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.0040544881</campoA>
+  			<campoB>-45.0648749232</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10033">
+  		<descricao>0034 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.6948843209</campoA>
+  			<campoB>-46.7779837978</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.2357250833</campoA>
+  			<campoB>-46.2052033707</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.0966555257</campoA>
+  			<campoB>-46.6319808863</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10034">
+  		<descricao>0035 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.8505281675</campoA>
+  			<campoB>-44.9057166467</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.080852987</campoA>
+  			<campoB>-46.5241698505</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10035">
+  		<descricao>0036 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.0439346014</campoA>
+  			<campoB>-45.0525004211</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.028559575</campoA>
+  			<campoB>-45.2941033851</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10036">
+  		<descricao>0037 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.2523308001</campoA>
+  			<campoB>-46.3405869975</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.0455592348</campoA>
+  			<campoB>-46.8237691245</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10037">
+  		<descricao>0038 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.4153248346</campoA>
+  			<campoB>-46.6037084805</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.8703909032</campoA>
+  			<campoB>-46.4780059989</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10038">
+  		<descricao>0039 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.9621978305</campoA>
+  			<campoB>-44.6074630882</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.9330323159</campoA>
+  			<campoB>-45.117636545</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10039">
+  		<descricao>0040 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.1549789621</campoA>
+  			<campoB>-47.0051201656</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.872171931</campoA>
+  			<campoB>-46.9281969285</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.9884114064</campoA>
+  			<campoB>-45.6267589253</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="4">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.8269057324</campoA>
+  			<campoB>-45.7323716212</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="5">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.0918265839</campoA>
+  			<campoB>-47.1276061019</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10040">
+  		<descricao>0041 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.1017054517</campoA>
+  			<campoB>-45.0980843623</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.4577809769</campoA>
+  			<campoB>-45.830948387</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.5766303693</campoA>
+  			<campoB>-46.8064119827</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10041">
+  		<descricao>0042 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.4631393181</campoA>
+  			<campoB>-46.2514881833</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.7159233525</campoA>
+  			<campoB>-45.9848669944</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.8218820769</campoA>
+  			<campoB>-44.9652372575</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="4">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.7120560335</campoA>
+  			<campoB>-45.5499891778</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10042">
+  		<descricao>0043 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.165591592</campoA>
+  			<campoB>-46.3202809187</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.5516202548</campoA>
+  			<campoB>-45.5012261107</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.6999466632</campoA>
+  			<campoB>-45.1182838541</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10043">
+  		<descricao>0044 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.6178236864</campoA>
+  			<campoB>-45.6989158085</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.6190633536</campoA>
+  			<campoB>-45.7902442623</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.7677720548</campoA>
+  			<campoB>-46.1455928403</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="4">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.4759534318</campoA>
+  			<campoB>-46.0976531201</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10044">
+  		<descricao>0045 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.6675191697</campoA>
+  			<campoB>-46.5905236075</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.9767787603</campoA>
+  			<campoB>-46.2686502393</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.8945451445</campoA>
+  			<campoB>-45.8555989309</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10045">
+  		<descricao>0046 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.8954520477</campoA>
+  			<campoB>-46.1682136487</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.8311610626</campoA>
+  			<campoB>-45.5629416625</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.347254733</campoA>
+  			<campoB>-46.4387480696</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="4">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.8872644092</campoA>
+  			<campoB>-46.8986649737</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10046">
+  		<descricao>0047 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.1896711221</campoA>
+  			<campoB>-44.730103188</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.1716283339</campoA>
+  			<campoB>-45.9642048672</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10047">
+  		<descricao>0048 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.1975557646</campoA>
+  			<campoB>-46.1905883273</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.9738659945</campoA>
+  			<campoB>-44.8599608028</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-24.005082884</campoA>
+  			<campoB>-46.1634557873</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="4">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.1182399297</campoA>
+  			<campoB>-45.2449045055</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10048">
+  		<descricao>0049 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.1406992327</campoA>
+  			<campoB>-46.6807673554</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.6333800327</campoA>
+  			<campoB>-46.6110053374</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+  	<trajetoria nTrj="10049">
+  		<descricao>0050 - FLOODER / RAND</descricao>
+  		<breakpoint nBrk="1">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.4426192927</campoA>
+  			<campoB>-44.6509283538</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="2">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.8670903137</campoA>
+  			<campoB>-46.3083296091</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  		<breakpoint nBrk="3">
+  		<coord>
+  			<tipo>L</tipo>
+  			<campoA>-23.1948901503</campoA>
+  			<campoB>-45.799469343</campoB>
+  		</coord>
+  		<altitude>10000</altitude>
+  		<velocidade>210</velocidade>
+  		</breakpoint>
+
+  	</trajetoria>
+
+
+    <trajetoria nTrj="2001">
+        <descricao>001 - LUZ / ALINA</descricao>
+
+		<breakpoint nBrk="1">
+            <coord>
+                <tipo>L</tipo>
+                <campoA>-22.903908</campoA>
+                <campoB>-46.469731</campoB>
+            </coord>
+           <altitude>10000</altitude>
+           <velocidade>210</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>L</tipo>
+                <campoA>-23.463958</campoA>
+                <campoB>-45.658363</campoB>
+            </coord>
+            <altitude>10000</altitude>
+            <velocidade>210</velocidade>
+        </breakpoint>
+
+		<breakpoint nBrk="3">
+            <coord>
+                <tipo>L</tipo>
+                <campoA>-22.998721</campoA>
+                <campoB>-45.669746</campoB>
+            </coord>
+            <altitude>10000</altitude>
+            <velocidade>210</velocidade>
+        </breakpoint>
+    </trajetoria>
+
+    <trajetoria nTrj="2002">
+        <descricao>002 - LUZ / ALINA</descricao>
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>L</tipo>
+                <campoA>-23.014665</campoA>
+                <campoB>-46.186023</campoB>
+            </coord>
+            <altitude>10000</altitude>
+            <velocidade>210</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>L</tipo>
+                <campoA>-23.294799</campoA>
+                <campoB>-45.715223</campoB>
+            </coord>
+            <altitude>8000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+    </trajetoria>
+
+
+
+	<trajetoria nTrj="4000">
+    	<descricao> Trajetórias do Meu Primeiro Exercício - LG2016</descricao>
+
+    	<breakpoint nBrk="1">
+        	<coord>
+            	<tipo>L</tipo>
+            	<campoA>-22.902570</campoA>
+            	<campoB>-44.287992</campoB>
+        	</coord>
+        	<altitude>10000</altitude>
+        	<velocidade>210</velocidade>
+    	</breakpoint>
+
+    	<breakpoint nBrk="2">
+        	<coord>
+            	<tipo>L</tipo>
+            	<campoA>-22.957090</campoA>
+            	<campoB>-44.239982</campoB>
+        	</coord>
+        	<altitude>10000</altitude>
+        	<velocidade>210</velocidade>
+    	</breakpoint>
+
+     	<breakpoint nBrk="3">
+        	<coord>
+            	<tipo>L</tipo>
+            	<campoA>-23.635927</campoA>
+            	<campoB>-45.832747</campoB>
+        	</coord>
+        	<altitude>10000</altitude>
+        	<velocidade>210</velocidade>
+     	</breakpoint>
+
+    	<breakpoint nBrk="4">
+        	<coord>
+            	<tipo>L</tipo>
+            	<campoA>-23.220060</campoA>
+            	<campoB>-45.898599</campoB>
+        	</coord>
+        	<altitude>10000</altitude>
+        	<velocidade>210</velocidade>
+    	</breakpoint>
+	</trajetoria>
+
+</trajetorias>

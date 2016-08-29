@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE trafegos>
+<trafegos VERSION="0001" CODE="1961" FORMAT="NEWTON">
+	<trafego nTrf="10000">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0001</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10000</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.579107165</campoA>
+			<campoB>-44.7498118566</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>255</proa>
+	</trafego>
+
+	<trafego nTrf="10001">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0002</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10001</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.6162156261</campoA>
+			<campoB>-44.7190264074</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>254</proa>
+	</trafego>
+
+	<trafego nTrf="10002">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0003</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10002</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.2909484518</campoA>
+			<campoB>-46.6347099967</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>112</proa>
+	</trafego>
+
+	<trafego nTrf="10003">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0004</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10003</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.7282803238</campoA>
+			<campoB>-44.627218949</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>81</proa>
+	</trafego>
+
+	<trafego nTrf="10004">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0005</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10004</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.1177401451</campoA>
+			<campoB>-45.1528134843</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>197</proa>
+	</trafego>
+
+	<trafego nTrf="10005">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0006</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10005</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.7527486922</campoA>
+			<campoB>-46.328987576</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>68</proa>
+	</trafego>
+
+	<trafego nTrf="10006">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0007</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10006</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.7677194379</campoA>
+			<campoB>-44.6538388839</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>253</proa>
+	</trafego>
+
+	<trafego nTrf="10007">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0008</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10007</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.9484412996</campoA>
+			<campoB>-46.5918955524</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>252</proa>
+	</trafego>
+
+	<trafego nTrf="10008">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0009</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10008</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.3325793367</campoA>
+			<campoB>-45.5891513918</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>37</proa>
+	</trafego>
+
+	<trafego nTrf="10009">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0010</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10009</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-24.0372343467</campoA>
+			<campoB>-46.9579168685</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>158</proa>
+	</trafego>
+
+	<trafego nTrf="10010">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0011</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10010</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.4735270937</campoA>
+			<campoB>-45.1147385877</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>231</proa>
+	</trafego>
+
+	<trafego nTrf="10011">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0012</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10011</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.9250694998</campoA>
+			<campoB>-45.5953096576</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>234</proa>
+	</trafego>
+
+	<trafego nTrf="10012">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0013</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10012</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.3653287859</campoA>
+			<campoB>-46.9629484418</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>124</proa>
+	</trafego>
+
+	<trafego nTrf="10013">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0014</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10013</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.5657834211</campoA>
+			<campoB>-46.9115616165</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>11</proa>
+	</trafego>
+
+	<trafego nTrf="10014">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0015</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10014</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-24.1338826948</campoA>
+			<campoB>-45.3997543384</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>115</proa>
+	</trafego>
+
+	<trafego nTrf="10015">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0016</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10015</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.5742429146</campoA>
+			<campoB>-45.5584143162</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>88</proa>
+	</trafego>
+
+	<trafego nTrf="10016">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0017</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10016</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.4567551693</campoA>
+			<campoB>-46.7262775677</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>133</proa>
+	</trafego>
+
+	<trafego nTrf="10017">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0018</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10017</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-24.1160626144</campoA>
+			<campoB>-44.8177727332</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>40</proa>
+	</trafego>
+
+	<trafego nTrf="10018">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0019</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10018</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.5244849104</campoA>
+			<campoB>-45.7371893304</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>77</proa>
+	</trafego>
+
+	<trafego nTrf="10019">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0020</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10019</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.9082373559</campoA>
+			<campoB>-45.1698225098</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>164</proa>
+	</trafego>
+
+	<trafego nTrf="10020">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0021</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10020</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.6792580164</campoA>
+			<campoB>-46.8605813721</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>149</proa>
+	</trafego>
+
+	<trafego nTrf="10021">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0022</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10021</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.263601745</campoA>
+			<campoB>-45.8566550856</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>127</proa>
+	</trafego>
+
+	<trafego nTrf="10022">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0023</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10022</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.0289316756</campoA>
+			<campoB>-45.6148175646</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>46</proa>
+	</trafego>
+
+	<trafego nTrf="10023">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0024</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10023</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.5204568584</campoA>
+			<campoB>-45.3790211332</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>128</proa>
+	</trafego>
+
+	<trafego nTrf="10024">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0025</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10024</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.6755236609</campoA>
+			<campoB>-45.1426505344</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>139</proa>
+	</trafego>
+
+	<trafego nTrf="10025">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0026</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10025</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.2397656911</campoA>
+			<campoB>-46.2783369866</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>124</proa>
+	</trafego>
+
+	<trafego nTrf="10026">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0027</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10026</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.836399609</campoA>
+			<campoB>-45.5989820823</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>177</proa>
+	</trafego>
+
+	<trafego nTrf="10027">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0028</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10027</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.7558999274</campoA>
+			<campoB>-46.4279500136</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>214</proa>
+	</trafego>
+
+	<trafego nTrf="10028">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0029</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10028</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.7732217861</campoA>
+			<campoB>-44.7805091171</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>64</proa>
+	</trafego>
+
+	<trafego nTrf="10029">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0030</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10029</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.8369987338</campoA>
+			<campoB>-47.012931324</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>193</proa>
+	</trafego>
+
+	<trafego nTrf="10030">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0031</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10030</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.7931849792</campoA>
+			<campoB>-46.6237687538</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>329</proa>
+	</trafego>
+
+	<trafego nTrf="10031">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0032</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10031</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.2696614223</campoA>
+			<campoB>-44.9830887874</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>295</proa>
+	</trafego>
+
+	<trafego nTrf="10032">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0033</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10032</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.8858011223</campoA>
+			<campoB>-46.5074909887</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>339</proa>
+	</trafego>
+
+	<trafego nTrf="10033">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0034</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10033</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.6830612196</campoA>
+			<campoB>-45.8458784629</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>190</proa>
+	</trafego>
+
+	<trafego nTrf="10034">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0035</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10034</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.8531323074</campoA>
+			<campoB>-45.8478078165</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>179</proa>
+	</trafego>
+
+	<trafego nTrf="10035">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0036</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10035</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.5409854213</campoA>
+			<campoB>-46.3061654134</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>341</proa>
+	</trafego>
+
+	<trafego nTrf="10036">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0037</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10036</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.4090261564</campoA>
+			<campoB>-46.6760851625</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>118</proa>
+	</trafego>
+
+	<trafego nTrf="10037">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0038</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10037</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.0308100873</campoA>
+			<campoB>-45.132085478</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>330</proa>
+	</trafego>
+
+	<trafego nTrf="10038">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0039</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10038</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.3814684984</campoA>
+			<campoB>-46.5154024844</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>159</proa>
+	</trafego>
+
+	<trafego nTrf="10039">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0040</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10039</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.8438682051</campoA>
+			<campoB>-46.4518472337</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>157</proa>
+	</trafego>
+
+	<trafego nTrf="10040">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0041</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10040</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.0752436918</campoA>
+			<campoB>-46.5959700356</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>125</proa>
+	</trafego>
+
+	<trafego nTrf="10041">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0042</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10041</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.5947002686</campoA>
+			<campoB>-47.1359278284</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>163</proa>
+	</trafego>
+
+	<trafego nTrf="10042">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0043</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10042</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.1712219166</campoA>
+			<campoB>-45.4909055685</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>81</proa>
+	</trafego>
+
+	<trafego nTrf="10043">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0044</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10043</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.338112438</campoA>
+			<campoB>-46.1650801376</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>293</proa>
+	</trafego>
+
+	<trafego nTrf="10044">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0045</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10044</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.2598398297</campoA>
+			<campoB>-45.4519457375</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>160</proa>
+	</trafego>
+
+	<trafego nTrf="10045">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0046</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10045</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.7252918253</campoA>
+			<campoB>-45.0027616278</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>255</proa>
+	</trafego>
+
+	<trafego nTrf="10046">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0047</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10046</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.6143304422</campoA>
+			<campoB>-46.6645987161</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>192</proa>
+	</trafego>
+
+	<trafego nTrf="10047">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0048</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10047</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-24.0353177324</campoA>
+			<campoB>-45.8314909072</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>359</proa>
+	</trafego>
+
+	<trafego nTrf="10048">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0049</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10048</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.0932219397</campoA>
+			<campoB>-45.131313047</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>177</proa>
+	</trafego>
+
+	<trafego nTrf="10049">
+		<designador>B737</designador>
+		<ssr>7003</ssr>
+		<indicativo>HCK0050</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ10049</procedimento>
+		<temptrafego>0</temptrafego>
+		<coord>
+			<tipo>L</tipo>
+			<campoA>-23.0788614449</campoA>
+			<campoB>-47.0700890902</campoB>
+		</coord>
+		<velocidade>250</velocidade>
+		<altitude>3000</altitude>
+		<proa>206</proa>
+	</trafego>
+
+
+</trafegos>

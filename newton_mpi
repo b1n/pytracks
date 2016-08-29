@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# nome do computador
+HOST=`hostname`
+
+# diretório da aplicação
+cd ~/Public/wrk.srce/pTrack/atual
+
+# executa a aplicação
+mpiexec -n $1 --hostfile newHosts.$HOST ./newton "${@:2}"
+
+# volta ao diretório raiz
+cd ~

@@ -1,0 +1,17 @@
+#!/bin/bash
+
+#  desabilita o proxy
+source ./x_proxy.sh
+
+#  nome do computador
+HOST=`hostname`
+
+#  diretório da aplicação
+#cd ~/Public/wrk.srce/TrackS/atual
+
+#  executa a aplicação
+# /usr/bin/env python -OO ./piloto.py 2> ./piloto.$HOST.log
+/usr/bin/env python ./piloto.py 2> ./piloto.$HOST.log
+
+#  diretório raiz
+cd ~

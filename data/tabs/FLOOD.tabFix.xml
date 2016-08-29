@@ -1,0 +1,553 @@
+﻿<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE fixos>
+<fixos VERSION="0001" CODE="1961" FORMAT="NEWTON">
+	
+	<fixo nFix="474">
+		<indicativo></indicativo>
+		<nome>MUMOP</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2338.220S</campoA>
+      <campoB>04516.010W</campoB>
+		</coord>
+	</fixo>
+
+  <fixo nFix="477">
+		<indicativo></indicativo>
+		<nome>OPREV</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2315.870S</campoA>
+      <campoB>04507.140W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="478">
+		<indicativo></indicativo>
+		<nome>PERES</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2305.610S</campoA>
+      <campoB>04508.870W</campoB>
+		</coord>
+	</fixo>
+	
+	<fixo nFix="491">
+		<indicativo></indicativo>
+		<nome>ARENA</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2101.600S</campoA>
+      <campoB>04446.950W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="601">
+		<indicativo></indicativo>
+		<nome>LIPS</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2316.120S</campoA>
+      <campoB>04622.640W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="602">
+		<indicativo></indicativo>
+		<nome>PONY</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2319.190S</campoA>
+      <campoB>04630.420W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="603">
+		<indicativo></indicativo>
+		<nome>UGONO</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2323.420S</campoA>
+      <campoB>04641.550W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="609">
+		<indicativo>DAD</indicativo>
+		<nome>DIADEMA</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2342.340S</campoA>
+      <campoB>04636.080W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="610">
+		<indicativo></indicativo>
+		<nome>GURU</nome>
+		<tipo>G</tipo>
+		<campoA>2340.170S</campoA>
+		<campoB>04622.770W</campoB>
+	</fixo>
+
+	<fixo nFix="611">
+		<indicativo></indicativo>
+		<nome>KELY</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2346.030S</campoA>
+      <campoB>04633.500W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="613">
+		<indicativo>IG</indicativo>
+		<nome>TUCA</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2327.730S</campoA>
+      <campoB>04634.730W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="623">
+		<indicativo></indicativo>
+		<nome>BIRD</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2341.880S</campoA>
+      <campoB>04643.060W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="624">
+		<indicativo></indicativo>
+		<nome>NADI</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2344.240S</campoA>
+      <campoB>04634.740W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="660">
+		<indicativo></indicativo>
+		<nome>NEBE</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2334.220S</campoA>
+      <campoB>04613.130W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="662">
+		<indicativo></indicativo>
+		<nome>APIT</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2344.110S</campoA>
+      <campoB>04647.610W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="666">
+		<indicativo></indicativo>
+		<nome>CABA</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2338.730S</campoA>
+      <campoB>04708.350W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="677">
+		<indicativo></indicativo>
+		<nome>FAET</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2328.100S</campoA>
+      <campoB>04627.220W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="678">
+		<indicativo></indicativo>
+		<nome>TATI</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2330.630S</campoA>
+      <campoB>04627.060W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="731">
+		<indicativo></indicativo>
+		<nome>SEKTI</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2346.360S</campoA>
+      <campoB>04555.980W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="732">
+		<indicativo></indicativo>
+		<nome>SEKPA</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2336.270S</campoA>
+      <campoB>04554.400W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="733">
+		<indicativo></indicativo>
+		<nome>LOPES</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2327.710S</campoA>
+      <campoB>04554.860W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="737">
+		<indicativo>SAT</indicativo>
+		<nome>SANTOS</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2359.000S</campoA>
+      <campoB>04615.800W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="738">
+		<indicativo></indicativo>
+		<nome>TEXAS</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2305.610S</campoA>
+      <campoB>04610.310W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="740">
+		<indicativo></indicativo>
+		<nome>NEMO</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2319.870S</campoA>
+      <campoB>04608.080W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="741">
+		<indicativo></indicativo>
+		<nome>DUMO</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2331.290S</campoA>
+      <campoB>04610.710W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="742">
+		<indicativo></indicativo>
+		<nome>VANG</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2319.120S</campoA>
+      <campoB>04613.860W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="743">
+		<indicativo></indicativo>
+		<nome>CARV</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2323.080S</campoA>
+      <campoB>04617.220W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="744">
+		<indicativo>CGO</indicativo>
+		<nome>CONGONHAS</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2337.650S</campoA>
+      <campoB>04639.280W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="745">
+		<indicativo>RDE</indicativo>
+		<nome>REDE</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2353.680S</campoA>
+      <campoB>04631.790W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="746">
+		<indicativo></indicativo>
+		<nome>BULI</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2348.100S</campoA>
+      <campoB>04637.200W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="747">
+		<indicativo>IS</indicativo>
+		<nome>MADA</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2332.690S</campoA>
+      <campoB>04642.760W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="748">
+		<indicativo>STN</indicativo>
+		<nome>SANTANA</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2329.250S</campoA>
+      <campoB>04655.400W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="749">
+		<indicativo>SCB</indicativo>
+		<nome>SOROCABA</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2330.430S</campoA>
+      <campoB>04722.690W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="750">
+		<indicativo>CPN</indicativo>
+		<nome>CAMPINAS</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2300.520S</campoA>
+      <campoB>04707.750W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="752">
+		<indicativo>BCO</indicativo>
+		<nome>BONSUCESSO</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2324.380S</campoA>
+      <campoB>04623.130W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="753">
+		<indicativo></indicativo>
+		<nome>FALK</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2309.840S</campoA>
+      <campoB>04640.900W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="755">
+		<indicativo></indicativo>
+		<nome>GRAS</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2247.080S</campoA>
+      <campoB>04653.620W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="770">
+		<indicativo></indicativo>
+		<nome>MENDS</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2234.700S</campoA>
+      <campoB>04713.190W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="775">
+		<indicativo></indicativo>
+		<nome>BALL</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2233.740S</campoA>
+      <campoB>04701.270W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="779">
+		<indicativo></indicativo>
+		<nome>PROX</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2223.410S</campoA>
+      <campoB>04710.530W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="829">
+		<indicativo>CTB</indicativo>
+		<nome>CURITIBA</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2531.920S</campoA>
+      <campoB>04910.090W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="840">
+		<indicativo></indicativo>
+		<nome>NEGUS</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2430.360S</campoA>
+      <campoB>04658.110W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="847">
+		<indicativo></indicativo>
+		<nome>CURSE</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2409.120S</campoA>
+      <campoB>04709.760W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="923">
+		<indicativo></indicativo>
+		<nome>ILNUD</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2309.630S</campoA>
+      <campoB>04712.290W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="928">
+		<indicativo></indicativo>
+		<nome>MULOD</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2302.240S</campoA>
+      <campoB>04453.310W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="929">
+		<indicativo></indicativo>
+		<nome>CARV</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2323.080S</campoA>
+      <campoB>04617.220W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="933">
+		<indicativo></indicativo>
+		<nome>DAGAT</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2241.570S</campoA>
+      <campoB>04714.740W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="934">
+		<indicativo></indicativo>
+		<nome>PROX</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2223.410S</campoA>
+      <campoB>04710.630W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="940">
+		<indicativo></indicativo>
+		<nome>ISPUT</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2255.320S</campoA>
+      <campoB>04714.540W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="942">
+		<indicativo></indicativo>
+		<nome>UVMER</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2253.420S</campoA>
+      <campoB>04717.280W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="1218">
+		<indicativo></indicativo>
+		<nome>VOID</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2314.190S</campoA>
+      <campoB>04714.560W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="1251">
+		<indicativo></indicativo>
+		<nome>NIBKA</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2252.070S</campoA>
+      <campoB>04701.560W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="1295">
+		<indicativo></indicativo>
+		<nome>PADAD</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2143.500S</campoA>
+      <campoB>04645.750W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="1298">
+		<indicativo></indicativo>
+		<nome>KOLKI</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2221.470S</campoA>
+      <campoB>04640.050W</campoB>
+		</coord>
+	</fixo>
+
+	<fixo nFix="1300">
+		<indicativo></indicativo>
+		<nome>KUBLO</nome>
+		<coord>
+      <tipo>G</tipo>
+      <campoA>2156.060S</campoA>
+      <campoB>04622.420W</campoB>
+		</coord>
+	</fixo>
+
+</fixos>

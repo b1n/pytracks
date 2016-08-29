@@ -1,0 +1,469 @@
+﻿<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE trafegos>
+<trafegos VERSION="0001" CODE="1961" FORMAT="NEWTON">
+
+	<trafego nTrf="1001">
+		<designador>A320</designador>
+		<ssr>4545</ssr>
+		<indicativo>TAM3015</indicativo>
+		<origem>SBRF</origem>
+		<destino>SBSP</destino>
+		<procedimento>TRJ1022</procedimento>
+		<coord>
+		  <tipo>F</tipo>
+		  <campoA>623</campoA>
+    </coord>
+		<temptrafego>0</temptrafego>
+		<velocidade>210</velocidade>
+		<nivel>80</nivel>
+		<rota>DCT</rota>
+		</trafego>
+
+	<trafego nTrf="1002">
+		<designador>B737</designador>
+		<ssr>4546</ssr>
+		<indicativo>GLO1327</indicativo>
+		<origem>SBGO</origem>
+		<destino>SBSP</destino>
+		<procedimento>TRJ1022</procedimento>
+    <coord>
+      <tipo>D</tipo>
+      <campoA>746</campoA>
+      <campoB>2</campoB>
+      <campoC>338</campoC>
+    </coord>
+		<temptrafego>0</temptrafego>
+		<velocidade>190</velocidade>
+		<nivel>60</nivel>
+		<rota>DCT</rota>
+  </trafego>
+
+	<trafego nTrf="1003">
+		<designador>A330</designador>
+		<ssr>4012</ssr>
+		<indicativo>TAM3231</indicativo>
+		<origem>SBEG</origem>
+		<destino>SBGR</destino>
+		<procedimento>TRJ1020</procedimento>
+		<coord>
+		  <tipo>D</tipo>
+		  <campoA>601</campoA>
+		  <campoB>5</campoB>
+		  <campoC>311</campoC>
+		</coord>
+		<temptrafego>0</temptrafego>
+		<velocidade>190</velocidade>
+		<nivel>70</nivel>
+		<rota>DCT</rota>
+	</trafego>
+
+	<trafego nTrf="1004">
+		<designador>A320</designador>
+		<ssr>3015</ssr>
+		<indicativo>TAM3387</indicativo>
+		<origem>SBPA</origem>
+		<destino>SBGR</destino>
+		<procedimento>TRJ1018</procedimento>
+		<coord>
+		  <tipo>F</tipo>
+		  <campoA>677</campoA>
+		</coord>
+		<temptrafego>0</temptrafego>
+		<velocidade>210</velocidade>
+		<nivel>100</nivel>
+		<rota>DCT</rota>
+	</trafego>
+
+	<trafego nTrf="1005">
+		<designador>B737</designador>
+		<ssr>4010</ssr>
+		<indicativo>GLO1211</indicativo>
+		<origem>SBBR</origem>
+		<destino>SBSP</destino>
+		<procedimento>TRJ1023</procedimento>
+		<coord>
+		  <tipo>D</tipo>
+		  <campoA>748</campoA>
+		  <campoB>20</campoB>
+		  <campoC>338</campoC>
+		</coord>
+		<temptrafego>0</temptrafego>
+		<velocidade>270</velocidade>
+		<nivel>120</nivel>
+		<rota>DCT</rota>
+	</trafego>
+
+	<trafego nTrf="1006">
+		<designador>C500</designador>
+		<ssr>3012</ssr>
+		<indicativo>PTNTF</indicativo>
+		<origem>SBRJ</origem>
+		<destino>SBSP</destino>
+		<procedimento>TRJ869</procedimento>
+		<coord>
+		  <tipo>D</tipo>
+		  <campoA>731</campoA>
+		  <campoB>10</campoB>
+		  <campoC>94</campoC>
+		</coord>
+		<temptrafego>0</temptrafego>
+		<velocidade>280</velocidade>
+		<nivel>200</nivel>
+		<rota>DCT</rota>
+	</trafego>
+
+	<trafego nTrf="1007">
+		<designador>B737</designador>
+		<ssr>4013</ssr>
+		<indicativo>GLO1823</indicativo>
+		<origem>SBUL</origem>
+		<destino>SBGR</destino>
+		<procedimento>TRJ870</procedimento>
+		<coord>
+		 <tipo>D</tipo>
+		 <campoA>755</campoA>
+		 <campoB>5</campoB>
+		 <campoC>352</campoC>
+		</coord>
+		<temptrafego>0</temptrafego>
+		<velocidade>280</velocidade>
+		<nivel>150</nivel>
+		<rota>DCT</rota>
+	</trafego>
+
+	<trafego nTrf="1008">
+		<designador>A320</designador>
+		<ssr>4014</ssr>
+		<indicativo>TAM3311</indicativo>
+		<origem>SBNT</origem>
+		<destino>SBGR</destino>
+		<procedimento>TRJ870</procedimento>
+		<coord>
+		 <tipo>D</tipo>
+		 <campoA>775</campoA>
+		 <campoB>5</campoB>
+		 <campoC>352</campoC>
+		</coord>
+		<temptrafego>0</temptrafego>
+		<velocidade>300</velocidade>
+		<nivel>210</nivel>
+		<rota>DCT</rota>
+	</trafego>
+
+	<trafego nTrf="1009">
+		<designador>A319</designador>
+		<ssr>3017</ssr>
+		<indicativo>TAM3105</indicativo>
+		<origem>SBFL</origem>
+		<destino>SBSP</destino>
+		<procedimento>TRJ627</procedimento>
+		<coord>
+		  <tipo>D</tipo>
+		  <campoA>840</campoA>
+		  <campoB>10</campoB>
+		  <campoC>233</campoC>
+		</coord>
+		<temptrafego>0</temptrafego>
+		<velocidade>350</velocidade>
+		<nivel>200</nivel>
+		<rota>DCT</rota>
+	</trafego>
+
+	<trafego nTrf="1010">
+		<designador>A320</designador>
+		<ssr>4054</ssr>
+		<indicativo>TAM3284</indicativo>
+		<origem>SBGR</origem>
+		<destino>SBBR</destino>
+		<procedimento>TRJ700</procedimento>
+		<coord>
+      <tipo>D</tipo>
+		  <campoA>738</campoA>
+		  <campoB>10</campoB>
+		  <campoC>214</campoC>
+		</coord>
+		<temptrafego>0</temptrafego>
+		<velocidade>260</velocidade>
+		<nivel>120</nivel>
+		<rota>DCT</rota>
+	</trafego>
+
+	<trafego nTrf="1011">
+		<designador>B738</designador>
+		<ssr>4055</ssr>
+		<indicativo>GLO1606</indicativo>
+		<origem>SBGR</origem>
+		<destino>SBSV</destino>
+		<procedimento>TRJ872</procedimento>
+		<coord>
+		  <tipo>F</tipo>
+		  <campoA>678</campoA>
+		</coord>
+		<temptrafego>0</temptrafego>
+		<velocidade>210</velocidade>
+		<nivel>80</nivel>
+		<rota>DCT</rota>
+	</trafego>
+
+	<trafego nTrf="1012">
+		<designador>A320</designador>
+		<ssr>3111</ssr>
+		<indicativo>TAM3044</indicativo>
+		<origem>SBSP</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ618</procedimento>
+		<coord>
+		  <tipo>D</tipo>
+		  <campoA>660</campoA>
+		  <campoB>5</campoB>
+		  <campoC>268</campoC>
+		</coord>
+		<temptrafego>0</temptrafego>
+		<velocidade>280</velocidade>
+		<nivel>100</nivel>
+		<rota>DCT</rota>
+	</trafego>
+
+	<trafego nTrf="1013">
+		<designador>A320</designador>
+		<ssr>4060</ssr>
+		<indicativo>ONE6152</indicativo>
+		<origem>SBSP</origem>
+		<destino>SBCF</destino>
+		<procedimento>TRJ619</procedimento>
+		<coord>
+		  <tipo>F</tipo>
+		  <campoA>740</campoA>
+		</coord>
+		<temptrafego>0</temptrafego>
+		<velocidade>280</velocidade>
+		<nivel>150</nivel>
+		<rota>DCT</rota>
+	</trafego>
+
+	<trafego nTrf="1014">
+		<designador>A320</designador>
+		<ssr>3113</ssr>
+		<indicativo>TAM3510</indicativo>
+		<origem>SBGR</origem>
+		<destino>SBGL</destino>
+		<procedimento>TRJ621</procedimento>
+		<coord>
+      <tipo>F</tipo>
+		  <campoA>740</campoA>
+		</coord>
+		<temptrafego>0</temptrafego>
+		<velocidade>350</velocidade>
+		<nivel>210</nivel>
+		<rota>DCT</rota>
+	</trafego>
+
+	<trafego nTrf="1015">
+		<designador>A320</designador>
+		<ssr>3114</ssr>
+		<indicativo>TAM3953</indicativo>
+		<origem>SBRJ</origem>
+		<destino>SBSP</destino>
+		<procedimento>TRJ1004</procedimento>
+		<coord>
+		  <tipo>D</tipo>
+		  <campoA>474</campoA>
+		  <campoB>10</campoB>
+		  <campoC>96</campoC>
+		</coord>
+		<temptrafego>0</temptrafego>
+		<velocidade>400</velocidade>
+		<nivel>230</nivel>
+		<rota>DCT</rota>
+	</trafego>
+
+	<trafego nTrf="1016">
+		<designador>A319</designador>
+		<ssr>3176</ssr>
+		<indicativo>TAM3107</indicativo>
+		<origem>SBKP</origem>
+		<destino>SBFL</destino>
+		<procedimento>SUB88</procedimento>
+		<temptrafego>0</temptrafego>
+		<rota>DCT</rota>
+		<niveltrj>360</niveltrj>
+		<veltrj>430</veltrj>
+	</trafego>
+
+	<trafego nTrf="1017">
+		<designador>A320</designador>
+		<ssr>4154</ssr>
+		<indicativo>ONE6262</indicativo>
+		<origem>SBAU</origem>
+		<destino>SBSP</destino>
+		<procedimento>TRJ1023</procedimento>
+		<coord>
+		  <tipo>D</tipo>
+		  <campoA>748</campoA>
+		  <campoB>40</campoB>
+		  <campoC>338</campoC>
+		</coord>
+		<temptrafego>0</temptrafego>
+		<velocidade>350</velocidade>
+		<nivel>150</nivel>
+		<rota>DCT</rota>
+	</trafego>
+
+	<trafego nTrf="1018">
+		<designador>A319</designador>
+		<ssr>3367</ssr>
+		<indicativo>TAM3901</indicativo>
+		<origem>SBRJ</origem>
+		<destino>SBSP</destino>
+		<procedimento>TRJ1021</procedimento>
+		<coord>
+		  <tipo>D</tipo>
+		  <campoA>745</campoA>
+		  <campoB>2</campoB>
+		  <campoC>131</campoC>
+		</coord>
+		<temptrafego>0</temptrafego>
+		<velocidade>210</velocidade>
+		<nivel>70</nivel>
+		<rota>DCT</rota>
+	</trafego>
+
+	<trafego nTrf="1019">
+		<designador>A320</designador>
+		<ssr>3370</ssr>
+		<indicativo>TAM3241</indicativo>
+		<origem>SBSP</origem>
+		<destino>SBPA</destino>
+		<procedimento>TRJ878</procedimento>
+		<coord>
+		  <tipo>F</tipo>
+		  <campoA>662</campoA>
+		</coord>
+		<temptrafego>0</temptrafego>
+		<velocidade>210</velocidade>
+		<nivel>60</nivel>
+		<rota>DCT</rota>
+	</trafego>
+
+	<trafego nTrf="1020">
+		<designador>A319</designador>
+		<ssr>3371</ssr>
+		<indicativo>TAM3904</indicativo>
+		<origem>SBSP</origem>
+		<destino>SBRJ</destino>
+		<procedimento>TRJ618</procedimento>
+		<coord>
+		  <tipo>F</tipo>
+		  <campoA>660</campoA>
+		</coord>
+		<temptrafego>0</temptrafego>
+		<velocidade>280</velocidade>
+		<nivel>120</nivel>
+		<rota>DCT</rota>
+	</trafego>
+
+	<trafego nTrf="1021">
+		<designador>A319</designador>
+		<ssr>4171</ssr>
+		<indicativo>TAM3702</indicativo>
+		<origem>SBSP</origem>
+		<destino>SBRJ</destino>
+		<coord>
+		  <tipo>D</tipo>
+		  <campoA>741</campoA>
+		  <campoB>10</campoB>
+		  <campoC>276</campoC>
+		</coord>
+		<temptrafego>0</temptrafego>
+		<proa>96</proa>
+		<velocidade>360</velocidade>
+		<nivel>100</nivel>
+		<rota>DCT</rota>
+	</trafego>
+
+	<trafego nTrf="1022">
+		<designador>A320</designador>
+		<ssr>3523</ssr>
+		<indicativo>TAM3612</indicativo>
+		<origem>SBKP</origem>
+		<destino>SBBR</destino>
+		<procedimento>SUB90</procedimento>
+		<temptrafego>0</temptrafego>
+		<rota>DCT</rota>
+	</trafego>
+
+	<trafego nTrf="1023">
+		<designador>B737</designador>
+		<ssr>3631</ssr>
+		<indicativo>GLO1663</indicativo>
+		<origem>SBGL</origem>
+		<destino>SBGR</destino>
+		<procedimento>TRJ1006</procedimento>
+		<coord>
+		  <tipo>D</tipo>
+		  <campoA>732</campoA>
+		  <campoB>20</campoB>
+		  <campoC>96</campoC>
+		</coord>
+		<temptrafego>0</temptrafego>
+		<velocidade>350</velocidade>
+		<nivel>230</nivel>
+		<rota>DCT</rota>
+	</trafego>
+
+	<trafego nTrf="1024">
+		<designador>C208</designador>
+		<ssr>3725</ssr>
+		<indicativo>PTSMM</indicativo>
+		<origem>SBSP</origem>
+		<destino>SBAS</destino>
+		<coord>
+		  <tipo>F</tipo>
+		  <campoA>666</campoA>
+		</coord>
+		<temptrafego>0</temptrafego>
+		<proa>321</proa>
+		<velocidade>180</velocidade>
+		<nivel>100</nivel>
+		<rota>DCT</rota>
+	</trafego>
+
+	<trafego nTrf="1025">
+		<designador>E190</designador>
+		<ssr>5005</ssr>
+		<indicativo>AZU6961</indicativo>
+		<origem>SBNT</origem>
+		<destino>SBKP</destino>
+		<procedimento>TRJ641</procedimento>
+		<coord>
+		  <tipo>D</tipo>
+		  <campoA>934</campoA>
+		  <campoB>20</campoB>
+		  <campoC>59</campoC>
+		</coord>
+		<temptrafego>0</temptrafego>
+		<velocidade>400</velocidade>
+		<nivel>180</nivel>
+		<rota>DCT</rota>
+	</trafego>
+
+	<trafego nTrf="1026">
+		<designador>A320</designador>
+		<ssr>5531</ssr>
+		<indicativo>TAM3661</indicativo>
+		<origem>SBSP</origem>
+		<destino>SBPA</destino>
+		<coord>
+		  <tipo>D</tipo>
+		  <campoA>847</campoA>
+		  <campoB>10</campoB>
+		  <campoC>61</campoC>
+		</coord>
+		<temptrafego>0</temptrafego>
+		<proa>241</proa>
+		<velocidade>300</velocidade>
+		<nivel>140</nivel>
+		<rota>DCT</rota>
+	</trafego>
+	
+</trafegos>

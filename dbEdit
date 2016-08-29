@@ -1,0 +1,14 @@
+#!/bin/bash
+
+#  nome do computador
+HOST=`hostname`
+
+#  diretório da aplicação
+# cd ~/Public/wrk.srce/pTrack/atual
+
+#  executa o editor da base de dados
+#/usr/bin/env python -OO ./dbEdit.py 2> ./dbEdit.$HOST.log
+/usr/bin/env python ./dbEdit.py 2> ./dbEdit.$HOST.log
+
+#  diretorio raiz
+# cd ~

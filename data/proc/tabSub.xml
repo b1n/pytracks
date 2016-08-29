@@ -1,0 +1,976 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE subidas>
+<subidas VERSION="0001" CODE="1961" FORMAT="NEWTON">
+
+    <subida nSub="57">
+        <nome>KOTRU 1B</nome>
+        <aerodromo>SBSJ</aerodromo>
+        <pista>33</pista>
+
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>8</campoB>
+                <campoC>333</campoC>
+            </coord>
+            <altitude>8000</altitude>
+            <velocidade>250</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>18</campoB>
+                <campoC>333</campoC>
+            </coord>
+            <altitude>10000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="3">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>377</campoA>
+            </coord>
+            <altitude>32000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+    </subida>
+
+    <subida nSub="58">
+        <nome>SAT 1B</nome>
+        <aerodromo>SBSJ</aerodromo>
+        <pista>33</pista>
+
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>6</campoB>
+                <campoC>228</campoC>
+            </coord>
+            <altitude>6000</altitude>
+            <velocidade>160</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>15</campoB>
+                <campoC>228</campoC>
+            </coord>
+            <altitude>8000</altitude>
+            <velocidade>250</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="3">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>83</campoA>
+            </coord>
+            <altitude>32000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+    </subida>
+
+    <subida nSub="59">
+        <nome>SUNLU 1B EKID</nome>
+        <aerodromo>SBSJ</aerodromo>
+        <pista>33</pista>
+
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>904</campoA>
+                <campoB>5</campoB>
+                <campoC>240</campoC>
+            </coord>
+            <altitude>6000</altitude>
+            <velocidade>160</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>904</campoA>
+            </coord>
+            <altitude>9000</altitude>
+            <velocidade>210</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="3">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>312</campoA>
+            </coord>
+            <altitude>15000</altitude>
+            <velocidade>250</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="4">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>361</campoA>
+            </coord>
+            <altitude>35000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="5">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>887</campoA>
+            </coord>
+            <altitude>35000</altitude>
+        </breakpoint>
+
+        <breakpoint nBrk="6">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>972</campoA>
+            </coord>
+            <altitude>35000</altitude>
+        </breakpoint>
+    </subida>
+
+    <subida nSub="60">
+        <nome>SUNLU 1B IMDAB</nome>
+        <aerodromo>SBSJ</aerodromo>
+        <pista>33</pista>
+
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>904</campoA>
+                <campoB>5</campoB>
+                <campoC>240</campoC>
+            </coord>
+            <altitude>6000</altitude>
+            <velocidade>160</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>904</campoA>
+            </coord>
+            <altitude>9000</altitude>
+            <velocidade>210</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="3">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>312</campoA>
+            </coord>
+            <altitude>15000</altitude>
+            <velocidade>250</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="4">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>361</campoA>
+            </coord>
+            <altitude>35000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="5">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>364</campoA>
+            </coord>
+            <altitude>35000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="6">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>853</campoA>
+            </coord>
+            <altitude>35000</altitude>
+        </breakpoint>
+    </subida>
+
+    <subida nSub="61">
+        <nome>UBRIR 1B</nome>
+        <aerodromo>SBSJ</aerodromo>
+        <pista>33</pista>
+
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>7</campoB>
+                <campoC>24</campoC>
+            </coord>
+            <altitude>6000</altitude>
+            <velocidade>180</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>14.9</campoB>
+                <campoC>24</campoC>
+            </coord>
+            <altitude>9000</altitude>
+            <velocidade>250</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="3">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>945</campoA>
+            </coord>
+            <altitude>35000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+    </subida>
+
+    <subida nSub="62">
+        <nome>SAT 1A</nome>
+        <aerodromo>SBSJ</aerodromo>
+        <pista>33</pista>
+
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>6</campoB>
+                <campoC>228</campoC>
+            </coord>
+            <altitude>6000</altitude>
+            <velocidade>160</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>15</campoB>
+                <campoC>228</campoC>
+            </coord>
+            <altitude>8000</altitude>
+            <velocidade>250</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="3">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>83</campoA>
+            </coord>
+            <altitude>32000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+    </subida>
+
+    <subida nSub="63">
+        <nome>KOTRU 1A</nome>
+        <aerodromo>SBSJ</aerodromo>
+        <pista>33</pista>
+
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>18.4</campoB>
+                <campoC>333</campoC>
+            </coord>
+            <altitude>10000</altitude>
+            <velocidade>250</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>377</campoA>
+            </coord>
+            <altitude>32000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+    </subida>
+
+    <subida nSub="64">
+        <nome>UBRIR 1 A</nome>
+        <aerodromo>SBSJ</aerodromo>
+        <pista>33</pista>
+
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>7</campoB>
+                <campoC>24</campoC>
+            </coord>
+            <altitude>6000</altitude>
+            <velocidade>180</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>14.9</campoB>
+                <campoC>24</campoC>
+            </coord>
+            <altitude>9000</altitude>
+            <velocidade>250</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="3">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>945</campoA>
+            </coord>
+            <altitude>35000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+    </subida>
+
+    <subida nSub="65">
+        <nome>SUNLU 1A EKID</nome>
+        <aerodromo>SBSJ</aerodromo>
+        <pista>33</pista>
+
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>904</campoA>
+                <campoB>5</campoB>
+                <campoC>240</campoC>
+            </coord>
+            <altitude>6000</altitude>
+            <velocidade>160</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>904</campoA>
+            </coord>
+            <altitude>9000</altitude>
+            <velocidade>210</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="3">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>312</campoA>
+            </coord>
+            <altitude>15000</altitude>
+            <velocidade>250</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="4">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>361</campoA>
+            </coord>
+            <altitude>35000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="5">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>966</campoA>
+            </coord>
+            <altitude>35000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="6">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>972</campoA>
+            </coord>
+            <altitude>35000</altitude>
+        </breakpoint>
+    </subida>
+
+    <subida nSub="66">
+        <nome>SUNLU 1A IMDAB</nome>
+        <aerodromo>SBSJ</aerodromo>
+        <pista>33</pista>
+
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>904</campoA>
+                <campoB>5</campoB>
+                <campoC>240</campoC>
+            </coord>
+            <altitude>6000</altitude>
+            <velocidade>160</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>904</campoA>
+            </coord>
+            <altitude>9000</altitude>
+            <velocidade>210</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="3">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>312</campoA>
+            </coord>
+            <altitude>15000</altitude>
+            <velocidade>250</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="4">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>361</campoA>
+            </coord>
+            <altitude>35000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="5">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>364</campoA>
+            </coord>
+            <altitude>35000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="6">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>853</campoA>
+            </coord>
+            <altitude>35000</altitude>
+        </breakpoint>
+    </subida>
+
+    <subida nSub="67">
+        <nome>USAMO 1A</nome>
+        <aerodromo>SBSJ</aerodromo>
+        <pista>33</pista>
+
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>7</campoB>
+                <campoC>24</campoC>
+            </coord>
+            <altitude>6000</altitude>
+            <velocidade>180</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>14.9</campoB>
+                <campoC>24</campoC>
+            </coord>
+            <altitude>9000</altitude>
+            <velocidade>250</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="3">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>886</campoA>
+            </coord>
+            <altitude>35000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+    </subida>
+
+    <subida nSub="68">
+        <nome>SAT 1B</nome>
+        <aerodromo>SBSJ</aerodromo>
+        <pista>15</pista>
+
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>5</campoB>
+                <campoC>228</campoC>
+            </coord>
+            <altitude>5000</altitude>
+            <velocidade>160</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>15</campoB>
+                <campoC>228</campoC>
+            </coord>
+            <altitude>8000</altitude>
+            <velocidade>230</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="3">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>83</campoA>
+            </coord>
+            <altitude>32000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+    </subida>
+
+    <subida nSub="69">
+        <nome>KOTRU 1B</nome>
+        <aerodromo>SBSJ</aerodromo>
+        <pista>15</pista>
+
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>5</campoB>
+                <campoC>333</campoC>
+            </coord>
+            <altitude>5000</altitude>
+            <velocidade>160</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>18.4</campoB>
+                <campoC>333</campoC>
+            </coord>
+            <altitude>10000</altitude>
+            <velocidade>250</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="3">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>377</campoA>
+            </coord>
+            <altitude>32000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+    </subida>
+
+    <subida nSub="70">
+        <nome>USAMO 1A</nome>
+        <aerodromo>SBSJ</aerodromo>
+        <pista>15</pista>
+
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>5</campoB>
+                <campoC>24</campoC>
+            </coord>
+            <altitude>5000</altitude>
+            <velocidade>160</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>17</campoB>
+                <campoC>24</campoC>
+            </coord>
+            <altitude>6000</altitude>
+            <velocidade>230</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="3">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>886</campoA>
+            </coord>
+            <altitude>37000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+    </subida>
+
+    <subida nSub="71">
+        <nome>MULUV 1B</nome>
+        <aerodromo>SBSJ</aerodromo>
+        <pista>15</pista>
+
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>4</campoB>
+                <campoC>57</campoC>
+            </coord>
+            <altitude>5000</altitude>
+            <velocidade>160</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>903</campoA>
+            </coord>
+            <altitude>5000</altitude>
+            <velocidade>210</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="3">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>903</campoA>
+                <campoB>5</campoB>
+                <campoC>57</campoC>
+            </coord>
+            <altitude>6000</altitude>
+            <velocidade>210</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="4">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>860</campoA>
+            </coord>
+            <altitude>37000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+    </subida>
+
+    <subida nSub="72">
+        <nome>VULET 1A EKID</nome>
+        <aerodromo>SBSJ</aerodromo>
+        <pista>15</pista>
+
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>413</campoA>
+            </coord>
+            <altitude>5000</altitude>
+            <velocidade>190</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>413</campoA>
+                <campoB>11.1</campoB>
+                <campoC>98</campoC>
+            </coord>
+            <altitude>8500</altitude>
+            <velocidade>230</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="3">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>361</campoA>
+            </coord>
+            <altitude>35000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="4">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>966</campoA>
+            </coord>
+            <altitude>35000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+    </subida>
+
+    <subida nSub="73">
+        <nome>VULET 1A DORLU</nome>
+        <aerodromo>SBSJ</aerodromo>
+        <pista>15</pista>
+
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>413</campoA>
+            </coord>
+            <altitude>5000</altitude>
+            <velocidade>190</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>413</campoA>
+                <campoB>10.5</campoB>
+                <campoC>123</campoC>
+            </coord>
+            <altitude>9000</altitude>
+            <velocidade>230</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="3">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>413</campoA>
+                <campoB>16</campoB>
+                <campoC>123</campoC>
+            </coord>
+            <altitude>9000</altitude>
+            <velocidade>230</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="4">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>365</campoA>
+            </coord>
+            <altitude>35000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="5">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>365</campoA>
+                <campoB>15</campoB>
+                <campoC>98</campoC>
+            </coord>
+            <altitude>35000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="6">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>365</campoA>
+                <campoB>20</campoB>
+                <campoC>98</campoC>
+            </coord>
+            <altitude>35000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="7">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>364</campoA>
+            </coord>
+            <altitude>35000</altitude>
+        </breakpoint>
+    </subida>
+
+    <subida nSub="74">
+        <nome>SAT 1A</nome>
+        <aerodromo>SBSJ</aerodromo>
+        <pista>15</pista>
+
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>5</campoB>
+                <campoC>228</campoC>
+            </coord>
+            <altitude>5000</altitude>
+            <velocidade>160</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>15</campoB>
+                <campoC>228</campoC>
+            </coord>
+            <altitude>8000</altitude>
+            <velocidade>230</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="3">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>83</campoA>
+            </coord>
+            <altitude>24000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+    </subida>
+
+    <subida nSub="75">
+        <nome>KOTRU 1A</nome>
+        <aerodromo>SBSJ</aerodromo>
+        <pista>15</pista>
+
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>5</campoB>
+                <campoC>333</campoC>
+            </coord>
+            <altitude>5000</altitude>
+            <velocidade>160</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>18.4</campoB>
+                <campoC>333</campoC>
+            </coord>
+            <altitude>10000</altitude>
+            <velocidade>250</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="3">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>377</campoA>
+            </coord>
+            <altitude>32000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+    </subida>
+
+    <subida nSub="76">
+        <nome>UBRIR 1A</nome>
+        <aerodromo>SBSJ</aerodromo>
+        <pista>15</pista>
+
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>7</campoB>
+                <campoC>24</campoC>
+            </coord>
+            <altitude>6000</altitude>
+            <velocidade>180</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>82</campoA>
+                <campoB>17</campoB>
+                <campoC>24</campoC>
+            </coord>
+            <altitude>6000</altitude>
+            <velocidade>250</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="3">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>945</campoA>
+            </coord>
+            <altitude>35000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+    </subida>
+
+    <subida nSub="77">
+        <nome>SUNLU 1B EKID</nome>
+        <aerodromo>SBSJ</aerodromo>
+        <pista>15</pista>
+
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>413</campoA>
+            </coord>
+            <altitude>5000</altitude>
+            <velocidade>190</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>413</campoA>
+                <campoB>11.1</campoB>
+                <campoC>98</campoC>
+            </coord>
+            <altitude>8500</altitude>
+            <velocidade>230</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="3">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>361</campoA>
+            </coord>
+            <altitude>35000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+    </subida>
+
+    <subida nSub="78">
+        <nome>SUNLU 1B DORLU</nome>
+        <aerodromo>SBSJ</aerodromo>
+        <pista>15</pista>
+
+        <breakpoint nBrk="1">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>413</campoA>
+            </coord>
+            <altitude>5000</altitude>
+            <velocidade>190</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>413</campoA>
+                <campoB>10.5</campoB>
+                <campoC>123</campoC>
+            </coord>
+            <altitude>9000</altitude>
+            <velocidade>230</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="3">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>413</campoA>
+                <campoB>16</campoB>
+                <campoC>123</campoC>
+            </coord>
+            <altitude>9000</altitude>
+            <velocidade>230</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="4">
+            <coord>
+                <tipo>F</tipo>
+                <campoA>365</campoA>
+            </coord>
+            <altitude>35000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="5">
+            <coord>
+                <tipo>D</tipo>
+                <campoA>365</campoA>
+                <campoB>20</campoB>
+                <campoC>98</campoC>
+            </coord>
+            <altitude>35000</altitude>
+            <velocidade>300</velocidade>
+        </breakpoint>
+    </subida>
+
+</subidas>

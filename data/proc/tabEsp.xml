@@ -1,0 +1,545 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE esperas>
+<esperas VERSION="0001" CODE="1961" FORMAT="NEWTON">
+
+    <espera nEsp="1">
+        <fixo>83</fixo>
+        <sentido>D</sentido>
+        <rumo>274</rumo>
+    </espera>
+
+    <espera nEsp="2">
+        <fixo>76</fixo>
+        <sentido>D</sentido>
+        <rumo>7</rumo>
+    </espera>
+
+    <espera nEsp="3">
+        <fixo>145</fixo>
+        <sentido>D</sentido>
+        <rumo>53</rumo>
+    </espera>
+
+    <espera nEsp="4">
+        <fixo>196</fixo>
+        <sentido>D</sentido>
+        <rumo>158</rumo>
+    </espera>
+
+    <espera nEsp="5">
+        <fixo>194</fixo>
+        <sentido>D</sentido>
+        <rumo>159</rumo>
+    </espera>
+
+    <espera nEsp="6">
+        <fixo>200</fixo>
+        <sentido>D</sentido>
+        <rumo>279</rumo>
+    </espera>
+
+    <espera nEsp="7">
+        <fixo>77</fixo>
+        <sentido>D</sentido>
+        <rumo>159</rumo>
+    </espera>
+
+    <espera nEsp="8">
+        <fixo>151</fixo>
+        <sentido>D</sentido>
+        <rumo>40</rumo>
+    </espera>
+
+    <espera nEsp="9">
+        <fixo>185</fixo>
+        <sentido>D</sentido>
+        <rumo>338</rumo>
+    </espera>
+
+    <espera nEsp="10">
+        <fixo>193</fixo>
+        <sentido>D</sentido>
+        <rumo>279</rumo>
+    </espera>
+
+    <espera nEsp="11">
+        <fixo>212</fixo>
+        <sentido>D</sentido>
+        <rumo>1</rumo>
+    </espera>
+
+    <espera nEsp="12">
+        <fixo>215</fixo>
+        <sentido>D</sentido>
+        <rumo>87</rumo>
+    </espera>
+
+    <espera nEsp="13">
+        <fixo>234</fixo>
+        <sentido>D</sentido>
+        <rumo>173</rumo>
+    </espera>
+
+    <espera nEsp="14">
+        <fixo>53</fixo>
+        <sentido>D</sentido>
+        <rumo>173</rumo>
+    </espera>
+
+    <espera nEsp="15">
+        <fixo>227</fixo>
+        <sentido>D</sentido>
+        <rumo>173</rumo>
+    </espera>
+
+    <espera nEsp="16">
+        <fixo>200</fixo>
+        <sentido>D</sentido>
+        <rumo>173</rumo>
+    </espera>
+
+    <espera nEsp="17">
+        <fixo>231</fixo>
+        <sentido>D</sentido>
+        <rumo>173</rumo>
+    </espera>
+
+    <espera nEsp="18">
+        <fixo>53</fixo>
+        <sentido>D</sentido>
+        <rumo>173</rumo>
+    </espera>
+
+    <espera nEsp="19">
+        <fixo>227</fixo>
+        <sentido>D</sentido>
+        <rumo>173</rumo>
+    </espera>
+
+    <espera nEsp="20">
+        <fixo>224</fixo>
+        <sentido>D</sentido>
+        <rumo>179</rumo>
+    </espera>
+
+    <espera nEsp="21">
+        <fixo>52</fixo>
+        <sentido>D</sentido>
+        <rumo>179</rumo>
+    </espera>
+
+    <espera nEsp="22">
+        <fixo>281</fixo>
+        <sentido>D</sentido>
+        <rumo>179</rumo>
+    </espera>
+
+    <espera nEsp="23">
+        <fixo>167</fixo>
+        <sentido>D</sentido>
+        <rumo>275</rumo>
+    </espera>
+
+    <espera nEsp="24">
+        <fixo>61</fixo>
+        <sentido>D</sentido>
+        <rumo>275</rumo>
+    </espera>
+
+    <espera nEsp="25">
+        <fixo>145</fixo>
+        <sentido>D</sentido>
+        <rumo>73</rumo>
+    </espera>
+
+    <espera nEsp="26">
+        <fixo>142</fixo>
+        <sentido>D</sentido>
+        <rumo>338</rumo>
+    </espera>
+
+    <espera nEsp="27">
+        <fixo>54</fixo>
+        <sentido>D</sentido>
+        <rumo>224</rumo>
+    </espera>
+
+    <espera nEsp="28">
+        <fixo>198</fixo>
+        <sentido>D</sentido>
+        <rumo>134</rumo>
+    </espera>
+
+    <espera nEsp="29">
+        <fixo>81</fixo>
+        <sentido>D</sentido>
+        <rumo>92</rumo>
+    </espera>
+
+    <espera nEsp="30">
+        <fixo>265</fixo>
+        <sentido>D</sentido>
+        <rumo>166</rumo>
+    </espera>
+
+    <espera nEsp="31">
+        <fixo>228</fixo>
+        <sentido>D</sentido>
+        <rumo>173</rumo>
+    </espera>
+
+    <espera nEsp="32">
+        <fixo>143</fixo>
+        <sentido>E</sentido>
+        <rumo>50</rumo>
+    </espera>
+
+    <espera nEsp="33">
+        <fixo>45</fixo>
+        <sentido>D</sentido>
+        <rumo>276</rumo>
+    </espera>
+
+    <espera nEsp="34">
+        <fixo>168</fixo>
+        <sentido>D</sentido>
+        <rumo>276</rumo>
+    </espera>
+
+    <espera nEsp="35">
+        <fixo>248</fixo>
+        <sentido>D</sentido>
+        <rumo>179</rumo>
+    </espera>
+
+    <espera nEsp="36">
+        <fixo>225</fixo>
+        <sentido>D</sentido>
+        <rumo>179</rumo>
+    </espera>
+
+    <espera nEsp="37">
+        <fixo>64</fixo>
+        <sentido>D</sentido>
+        <rumo>66</rumo>
+    </espera>
+
+    <espera nEsp="38">
+        <fixo>218</fixo>
+        <sentido>D</sentido>
+        <rumo>154</rumo>
+    </espera>
+
+    <espera nEsp="39">
+        <fixo>79</fixo>
+        <sentido>D</sentido>
+        <rumo>330</rumo>
+    </espera>
+
+    <espera nEsp="40">
+        <fixo>348</fixo>
+        <sentido>D</sentido>
+        <rumo>148</rumo>
+    </espera>
+
+    <espera nEsp="41">
+        <fixo>195</fixo>
+        <sentido>D</sentido>
+        <rumo>158</rumo>
+    </espera>
+
+    <espera nEsp="42">
+        <fixo>49</fixo>
+        <sentido>D</sentido>
+        <rumo>276</rumo>
+    </espera>
+
+    <espera nEsp="43">
+        <fixo>48</fixo>
+        <sentido>D</sentido>
+        <rumo>276</rumo>
+    </espera>
+
+    <espera nEsp="44">
+        <fixo>246</fixo>
+        <sentido>D</sentido>
+        <rumo>212</rumo>
+    </espera>
+
+    <espera nEsp="45">
+        <fixo>264</fixo>
+        <sentido>D</sentido>
+        <rumo>141</rumo>
+    </espera>
+
+    <espera nEsp="46">
+        <fixo>932</fixo>
+        <sentido>E</sentido>
+        <rumo>278</rumo>
+    </espera>
+
+    <espera nEsp="47">
+        <fixo>933</fixo>
+        <sentido>E</sentido>
+        <rumo>278</rumo>
+    </espera>
+
+    <espera nEsp="48">
+        <fixo>83</fixo>
+        <sentido>D</sentido>
+        <rumo>2</rumo>
+    </espera>
+
+    <espera nEsp="49">
+        <fixo>938</fixo>
+        <sentido>E</sentido>
+        <rumo>50</rumo>
+    </espera>
+
+    <espera nEsp="50">
+        <fixo>529</fixo>
+        <sentido>D</sentido>
+        <rumo>234</rumo>
+    </espera>
+
+    <espera nEsp="51">
+        <fixo>914</fixo>
+        <sentido>D</sentido>
+        <rumo>234</rumo>
+    </espera>
+
+    <espera nEsp="52">
+        <fixo>312</fixo>
+        <sentido>D</sentido>
+        <rumo>276</rumo>
+    </espera>
+
+    <espera nEsp="53">
+        <fixo>159</fixo>
+        <sentido>D</sentido>
+        <rumo>181</rumo>
+    </espera>
+
+    <espera nEsp="54">
+        <fixo>866</fixo>
+        <sentido>D</sentido>
+        <rumo>104</rumo>
+    </espera>
+
+    <espera nEsp="55">
+        <fixo>918</fixo>
+        <sentido>D</sentido>
+        <rumo>148</rumo>
+    </espera>
+
+    <espera nEsp="56">
+        <fixo>917</fixo>
+        <sentido>D</sentido>
+        <rumo>148</rumo>
+    </espera>
+
+    <espera nEsp="57">
+        <fixo>892</fixo>
+        <sentido>D</sentido>
+        <rumo>45</rumo>
+    </espera>
+
+    <espera nEsp="58">
+        <fixo>896</fixo>
+        <sentido>D</sentido>
+        <rumo>148</rumo>
+    </espera>
+
+    <espera nEsp="59">
+        <fixo>916</fixo>
+        <sentido>D</sentido>
+        <rumo>58</rumo>
+    </espera>
+
+    <espera nEsp="60">
+        <fixo>921</fixo>
+        <sentido>E</sentido>
+        <rumo>244</rumo>
+    </espera>
+
+    <espera nEsp="61">
+        <fixo>920</fixo>
+        <sentido>D</sentido>
+        <rumo>64</rumo>
+    </espera>
+
+    <espera nEsp="62">
+        <fixo>925</fixo>
+        <sentido>D</sentido>
+        <rumo>52</rumo>
+    </espera>
+
+    <espera nEsp="63">
+        <fixo>928</fixo>
+        <sentido>E</sentido>
+        <rumo>175</rumo>
+    </espera>
+
+    <espera nEsp="64">
+        <fixo>930</fixo>
+        <sentido>E</sentido>
+        <rumo>241</rumo>
+    </espera>
+
+    <espera nEsp="65">
+        <fixo>931</fixo>
+        <sentido>D</sentido>
+        <rumo>336</rumo>
+    </espera>
+
+    <espera nEsp="66">
+        <fixo>932</fixo>
+        <sentido>E</sentido>
+        <rumo>277</rumo>
+    </espera>
+
+    <espera nEsp="67">
+        <fixo>933</fixo>
+        <sentido>E</sentido>
+        <rumo>277</rumo>
+    </espera>
+
+    <espera nEsp="68">
+        <fixo>187</fixo>
+        <sentido>D</sentido>
+        <rumo>15</rumo>
+    </espera>
+
+    <espera nEsp="69">
+        <fixo>142</fixo>
+        <sentido>D</sentido>
+        <rumo>47</rumo>
+    </espera>
+
+    <espera nEsp="70">
+        <fixo>935</fixo>
+        <sentido>D</sentido>
+        <rumo>47</rumo>
+    </espera>
+
+    <espera nEsp="71">
+        <fixo>819</fixo>
+        <sentido>D</sentido>
+        <rumo>179</rumo>
+    </espera>
+
+    <espera nEsp="72">
+        <fixo>914</fixo>
+        <sentido>D</sentido>
+        <rumo>234</rumo>
+    </espera>
+
+    <espera nEsp="73">
+        <fixo>529</fixo>
+        <sentido>D</sentido>
+        <rumo>234</rumo>
+    </espera>
+
+    <espera nEsp="74">
+        <fixo>917</fixo>
+        <sentido>D</sentido>
+        <rumo>148</rumo>
+    </espera>
+
+    <espera nEsp="75">
+        <fixo>918</fixo>
+        <sentido>D</sentido>
+        <rumo>148</rumo>
+    </espera>
+
+    <espera nEsp="76">
+        <fixo>159</fixo>
+        <sentido>D</sentido>
+        <rumo>181</rumo>
+    </espera>
+
+    <espera nEsp="77">
+        <fixo>866</fixo>
+        <sentido>D</sentido>
+        <rumo>104</rumo>
+    </espera>
+
+    <espera nEsp="78">
+        <fixo>858</fixo>
+        <sentido>E</sentido>
+        <rumo>278</rumo>
+    </espera>
+
+    <espera nEsp="79">
+        <fixo>370</fixo>
+        <sentido>D</sentido>
+        <rumo>168</rumo>
+    </espera>
+
+    <espera nEsp="80">
+        <fixo>515</fixo>
+        <sentido>E</sentido>
+        <rumo>200</rumo>
+    </espera>
+
+    <espera nEsp="81">
+        <fixo>937</fixo>
+        <sentido>E</sentido>
+        <rumo>200</rumo>
+    </espera>
+
+    <espera nEsp="82">
+        <fixo>151</fixo>
+        <sentido>D</sentido>
+        <rumo>39</rumo>
+    </espera>
+
+    <espera nEsp="83">
+        <fixo>408</fixo>
+        <sentido>D</sentido>
+        <rumo>273</rumo>
+    </espera>
+
+    <espera nEsp="84">
+        <fixo>963</fixo>
+        <sentido>E</sentido>
+        <rumo>294</rumo>
+    </espera>
+
+    <espera nEsp="85">
+        <fixo>403</fixo>
+        <sentido>E</sentido>
+        <rumo>186</rumo>
+    </espera>
+
+    <espera nEsp="86">
+        <fixo>384</fixo>
+        <sentido>D</sentido>
+        <rumo>81</rumo>
+    </espera>
+
+    <espera nEsp="87">
+        <fixo>403</fixo>
+        <sentido>E</sentido>
+        <rumo>186</rumo>
+    </espera>
+
+    <espera nEsp="88">
+        <fixo>963</fixo>
+        <sentido>E</sentido>
+        <rumo>310</rumo>
+    </espera>
+
+    <espera nEsp="89">
+        <fixo>409</fixo>
+        <sentido>D</sentido>
+        <rumo>273</rumo>
+    </espera>
+
+    <espera nEsp="90">
+        <fixo>971</fixo>
+        <sentido>D</sentido>
+        <rumo>90</rumo>
+    </espera>
+
+</esperas>

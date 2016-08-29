@@ -1,0 +1,299 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE aerodromos>
+<aerodromos VERSION="0001" CODE="1961" FORMAT="NEWTON">
+
+    <aerodromo nAer="SBGL">
+        <nome>GALEÃO</nome>
+        <elevacao>11</elevacao>
+
+        <pista nPis="10">
+            <rumo>95</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2248.12S</campoA>
+                <campoB>4315.32W</campoB>
+            </coord>
+        </pista>
+
+        <pista nPis="15">
+            <rumo>147</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2248.75S</campoA>
+                <campoB>4315.82W</campoB>
+            </coord>
+        </pista>
+
+        <pista nPis="28">
+            <rumo>275</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2247.53S</campoA>
+                <campoB>4313.05W</campoB>
+            </coord>
+        </pista>
+
+        <pista nPis="33">
+            <rumo>327</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2249.75S</campoA>
+                <campoB>4314.32W</campoB>
+            </coord>
+        </pista>
+    </aerodromo>
+
+    <aerodromo nAer="SBGR">
+        <nome>GUARULHOS</nome>
+        <elevacao>2459</elevacao>
+
+        <pista nPis="09">
+            <rumo>92</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2325.314S</campoA>
+                <campoB>4629.365W</campoB>
+            </coord>
+        </pista>
+
+        <pista nPis="09L">
+            <rumo>92</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2326.05S</campoA>
+                <campoB>4628.95W</campoB>
+            </coord>
+        </pista>
+
+        <pista nPis="09R">
+            <rumo>92</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2326.317S</campoA>
+                <campoB>4629.217W</campoB>
+            </coord>
+        </pista>
+
+        <pista nPis="27">
+            <rumo>272</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2325.04S</campoA>
+                <campoB>4628.351W</campoB>
+            </coord>
+        </pista>
+
+        <pista nPis="27L">
+            <rumo>272</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2325.9S</campoA>
+                <campoB>4627.833W</campoB>
+            </coord>
+        </pista>
+
+        <pista nPis="27R">
+            <rumo>272</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2325.6S</campoA>
+                <campoB>4627.5W</campoB>
+            </coord>
+        </pista>
+    </aerodromo>
+
+    <aerodromo nAer="SBJR">
+        <nome>JACAREPAGUÁ</nome>
+        <elevacao>10</elevacao>
+
+        <pista nPis="02">
+            <rumo>24</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2259.45S</campoA>
+                <campoB>4322.35W</campoB>
+            </coord>
+        </pista>
+
+        <pista nPis="20">
+            <rumo>204</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2258.97S</campoA>
+                <campoB>4322.32W</campoB>
+            </coord>
+        </pista>
+    </aerodromo>
+
+    <aerodromo nAer="SBKP">
+        <nome>CAMPINAS</nome>
+        <elevacao>2170</elevacao>
+
+        <pista nPis="15">
+            <rumo>146</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2259.55S</campoA>
+                <campoB>4708.49W</campoB>
+            </coord>
+        </pista>
+
+        <pista nPis="33">
+            <rumo>326</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2300.59S</campoA>
+                <campoB>4707.19W</campoB>
+            </coord>
+        </pista>
+    </aerodromo>
+
+    <aerodromo nAer="SBRJ">
+        <nome>SANTOS DUMONT</nome>
+        <elevacao>10</elevacao>
+
+        <pista nPis="02R">
+            <rumo>18</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2255S</campoA>
+                <campoB>4309.75W</campoB>
+            </coord>
+        </pista>
+
+        <pista nPis="20L">
+            <rumo>198</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2254.28S</campoA>
+                <campoB>4309.8W</campoB>
+            </coord>
+        </pista>
+    </aerodromo>
+
+    <aerodromo nAer="SBSC">
+        <nome>SANTA CRUZ</nome>
+        <elevacao>10</elevacao>
+
+        <pista nPis="05">
+            <rumo>46</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2256.63S</campoA>
+                <campoB>4343.47W</campoB>
+            </coord>
+        </pista>
+
+        <pista nPis="23">
+            <rumo>226</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2255.26S</campoA>
+                <campoB>4342.81W</campoB>
+            </coord>
+        </pista>
+    </aerodromo>
+
+    <aerodromo nAer="SBSJ">
+        <nome>SÃO JOSÉ DOS CAMPOS</nome>
+        <elevacao>2120</elevacao>
+
+        <pista nPis="15">
+            <rumo>152</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2313.09S</campoA>
+                <campoB>4552.18W</campoB>
+            </coord>
+        </pista>
+
+        <pista nPis="33">
+            <rumo>332</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2314.1S</campoA>
+                <campoB>4551.11W</campoB>
+            </coord>
+        </pista>
+    </aerodromo>
+
+    <aerodromo nAer="SBSP">
+        <nome>CONGONHAS</nome>
+        <elevacao>2631</elevacao>
+
+        <pista nPis="17L">
+            <rumo>163</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2337.25S</campoA>
+                <campoB>4639.484W</campoB>
+            </coord>
+        </pista>
+
+        <pista nPis="17R">
+            <rumo>166</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2337.267S</campoA>
+                <campoB>4639.617W</campoB>
+            </coord>
+        </pista>
+
+        <pista nPis="35L">
+            <rumo>346</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2338.067S</campoA>
+                <campoB>4639.05W</campoB>
+            </coord>
+        </pista>
+
+        <pista nPis="35R">
+            <rumo>343</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>2337.9S</campoA>
+                <campoB>4639.033W</campoB>
+            </coord>
+        </pista>
+    </aerodromo>
+
+    <aerodromo nAer="SBBR">
+        <nome>BRASÍLIA</nome>
+        <elevacao>3479</elevacao>
+
+        <pista nPis="11L">
+            <rumo>106</rumo>
+            <coord>
+                <tipo>F</tipo>
+                <campoA>823</campoA>
+            </coord>
+        </pista>
+
+        <pista nPis="11R">
+            <rumo>111</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>1552.3S</campoA>
+                <campoB>4756.14W</campoB>
+            </coord>
+        </pista>
+
+        <pista nPis="29L">
+            <rumo>287</rumo>
+            <coord>
+                <tipo>F</tipo>
+                <campoA>58</campoA>
+            </coord>
+        </pista>
+
+        <pista nPis="29R">
+            <rumo>287</rumo>
+            <coord>
+                <tipo>G</tipo>
+                <campoA>1551.25S</campoA>
+                <campoB>4753.31W</campoB>
+            </coord>
+        </pista>
+    </aerodromo>
+</aerodromos>
