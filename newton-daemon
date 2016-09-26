@@ -8,7 +8,7 @@ case $1 in
     start)
         echo "Starting $SERVICE_NAME ..."
         if [ ! -f $PID_PATH_NAME ]; then
-            sleep 10
+            # sleep 10
             sudo ip route add 224.0.0.0/4 via $MCAST_GW
             cd $NEWTON_PATH
             nohup python newton.py 2>> /dev/null >> /dev/null & echo $! > $PID_PATH_NAME
