@@ -1,50 +1,53 @@
 #!/bin/sh
-SERVICE_NAME=ptracks-daemon
+SERVICE_NAME=ptracks
 PID_PATH_NAME=/tmp/ptracks.pid
 MCAST_GW=172.17.255.254
+PTRACKS_CONF=/etc/ptracks
+
+# Reset
+COLOR_OFF='\033[0m'       # Text Reset
+RED='\033[0;31m'          # Red
+GREEN='\033[0;32m'        # Green
 
 case $1 in
     start)
-        echo "Starting $SERVICE_NAME ..."
+        printf " * Starting $SERVICE_NAME (exercise $2)\n"
         if [ ! -f $PID_PATH_NAME ]; then
-            # sleep 10
-            sudo ip route add 224.0.0.0/4 via $MCAST_GW
-            cd $NEWTON_PATH
-            nohup python -m ptracks.newton 2>> /dev/null >> /dev/null & echo $! > $PID_PATH_NAME
-            echo "$SERVICE_NAME started ..."
+            sleep 1
+            cd $PTRACKS_CONF
+            nohup python -m ptracks.newton --exe=$2 2>> /dev/null >> /dev/null & echo $! > $PID_PATH_NAME
+
+            # Check if coreemu is running
+			if ping -c 1 $MCAST_GW > /dev/null; then
+				printf " * Multicast gateway ($MCAST_GW) is online \n"
+				sudo ip route add 224.0.0.0/4 via $MCAST_GW
+			fi
+
+			# OK
+            printf " * $GREEN[ok]$COLOR_OFF\n"
+
         else
-            echo "$SERVICE_NAME is already running ..."
+            printf " * $RED[already running]$COLOR_OFF\n"
         fi
     ;;
     stop)
+    	printf " * Stopping $SERVICE_NAME\n"
         if [ -f $PID_PATH_NAME ]; then
+        	sleep 1
             PID=$(cat $PID_PATH_NAME);
-            echo "$SERVICE_NAME stoping ..."
-            sudo ip route del 224.0.0.0/4 via $MCAST_GW
+            # sudo ip route del 224.0.0.0/4 via $MCAST_GW
             sudo kill -9 $PID;
             sudo rm $PID_PATH_NAME
             sudo kill -9 `ps -ef | grep "newton" | grep -v grep | awk '{print $2}'`
-            echo "$SERVICE_NAME stopped ..."
-        else
-            echo "$SERVICE_NAME is not running ..."
-        fi
-    ;;
-    restart)
-        if [ -f $PID_PATH_NAME ]; then
-            PID=$(cat $PID_PATH_NAME);
-            echo "$SERVICE_NAME stoping ..."
-            sudo ip route del 224.0.0.0/4 via $MCAST_GW
-            sudo kill $PID;
-            sudo rm $PID_PATH_NAME
-            sudo kill -9 `ps -ef | grep "newton" | grep -v grep | awk '{print $2}'`
-            echo "$SERVICE_NAME stopped ..."
 
-            sudo ip route add 224.0.0.0/4 via $MCAST_GW
-            cd $NEWTON_PATH
-            nohup python -m ptracks.newton 2>> /dev/null >> /dev/null & echo $! > $PID_PATH_NAME
-            echo "$SERVICE_NAME started ..."
+            # Check if coreemu is running
+			if ping -c 1 $MCAST_GW > /dev/null; then
+				sudo ip route del 224.0.0.0/4 via $MCAST_GW
+			fi
+
+            printf " * $GREEN[ok]$COLOR_OFF\n"
         else
-            echo "$SERVICE_NAME is not running ..."
+            printf " * $RED[not running]$COLOR_OFF\n"
         fi
     ;;
 esac
