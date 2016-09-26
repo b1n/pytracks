@@ -23,4 +23,5 @@ ln -s `pwd`/tracks.cfg /etc/ptracks/tracks.cfg
 #
 # /etc/init.d/ptracks
 #
-sudo touch /etc/init.d/ptracks
+rm -rf /etc/init.d/ptracks
+ln -s `pwd`/bin/ptracks /etc/init.d/ptracks

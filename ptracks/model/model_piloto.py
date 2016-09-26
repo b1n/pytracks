@@ -31,7 +31,7 @@ from .emula import emula_piloto as emula
 from .piloto import airspace_piloto as airs
 
 # control
-import control.events.events_basic as events
+# import control.events.events_basic as events
 
 # < module data >----------------------------------------------------------------------------------
 

@@ -1,7 +1,6 @@
 #!/bin/sh
-SERVICE_NAME=newton-daemon
-PID_PATH_NAME=/tmp/newtond.pid
-NEWTON_PATH=/opt/adsb/ptracks
+SERVICE_NAME=ptracks-daemon
+PID_PATH_NAME=/tmp/ptracks.pid
 MCAST_GW=172.17.255.254
 
 case $1 in
@@ -11,7 +10,7 @@ case $1 in
             # sleep 10
             sudo ip route add 224.0.0.0/4 via $MCAST_GW
             cd $NEWTON_PATH
-            nohup python newton.py 2>> /dev/null >> /dev/null & echo $! > $PID_PATH_NAME
+            nohup python -m ptracks.newton 2>> /dev/null >> /dev/null & echo $! > $PID_PATH_NAME
             echo "$SERVICE_NAME started ..."
         else
             echo "$SERVICE_NAME is already running ..."
@@ -42,7 +41,7 @@ case $1 in
 
             sudo ip route add 224.0.0.0/4 via $MCAST_GW
             cd $NEWTON_PATH
-            nohup python newton.py 2>> /dev/null >> /dev/null & echo $! > $PID_PATH_NAME
+            nohup python -m ptracks.newton 2>> /dev/null >> /dev/null & echo $! > $PID_PATH_NAME
             echo "$SERVICE_NAME started ..."
         else
             echo "$SERVICE_NAME is not running ..."

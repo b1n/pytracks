@@ -57,7 +57,7 @@ class CControlPiloto(control.CControlBasic):
     """
     # ---------------------------------------------------------------------------------------------
 
-    def __init__(self):
+    def __init__(self, f_config="tracks.cfg"):
 
         # logger
         # M_LOG.info("__init__:>>")
@@ -78,7 +78,7 @@ class CControlPiloto(control.CControlBasic):
         # self.sim_time      # simulation timer
 
         # carrega o arquivo com as opções de configuração
-        self.config = config.CConfigPiloto("tracks.cfg")
+        self.config = config.CConfigPiloto(f_config)
         assert self.config
 
         # obtém o dicionário de configuração

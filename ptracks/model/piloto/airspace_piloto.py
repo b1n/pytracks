@@ -31,7 +31,7 @@ from ..items import esp_data as espdata
 from ..items import sub_data as subdata
 from ..items import trj_data as trjdata
 
-import model.piloto.defs_piloto as ldefs
+# import model.piloto.defs_piloto as ldefs
 
 # < module data >----------------------------------------------------------------------------------
 

@@ -25,12 +25,12 @@ import os
 import sys
 
 # model
-import model.model_manager as model
+from . import model_manager as model
 
-import model.items.exe_data as exedata
+from .items import exe_data as exedata
 
 # control
-import control.events.events_basic as events
+from ..control.events import events_basic as events
 
 # < module data >----------------------------------------------------------------------------------
 

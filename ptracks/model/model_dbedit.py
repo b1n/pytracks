@@ -25,21 +25,21 @@ import os
 import sys
 
 # model
-import model.model_manager as model
-import model.newton.airspace_newton as airs
+from . import model_manager as model
+from .newton import airspace_newton as airs
 
-import model.coords.coord_sys as coords
+from .coords import coord_sys as coords
 
-import model.items.aer_data as aerdata
-import model.items.exe_data as exedata
-import model.items.fix_data as fixdata
-import model.items.prf_data as prfdata
+# import model.items.aer_data as aerdata
+from .items import exe_data as exedata
+# import model.items.fix_data as fixdata
+from .items import prf_data as prfdata
 # import model.items.sen_data as sendata
-import model.items.trf_data as trfdata
-import model.items.trj_data as trjdata
+from .items import trf_data as trfdata
+# import model.items.trj_data as trjdata
 
 # control
-import control.events.events_basic as events
+from ..control.events import events_basic as events
 
 # < module data >----------------------------------------------------------------------------------
 

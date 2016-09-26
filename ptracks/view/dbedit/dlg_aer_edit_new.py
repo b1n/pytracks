@@ -30,7 +30,7 @@ from PyQt4 import QtCore, QtGui
 from ...model.items import aer_new as model
 
 # view
-import view.dbedit.dlg_aer_edit_new_ui as dlg
+from . import dlg_aer_edit_new_ui as dlg
 
 # < module data >----------------------------------------------------------------------------------
 

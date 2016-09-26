@@ -25,16 +25,16 @@ import os
 import sys
 
 # model
-import model.glb_defs as gdefs
-import model.model_manager as model
+from . import glb_defs as gdefs
+from . import model_manager as model
 
-import model.coords.coord_sys as coords
-import model.emula.emula_visil as emula
-import model.visil.airspace_visil as airs
+from .coords import coord_sys as coords
+from .emula import emula_visil as emula
+from .visil import airspace_visil as airs
 # import model.visil.landscape as lands
 
 # control
-import control.events.events_basic as event
+from ..control.events import events_basic as event
 
 # < module data >----------------------------------------------------------------------------------
 
