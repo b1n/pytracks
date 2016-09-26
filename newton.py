@@ -28,7 +28,7 @@ import sip
 sip.setapi('QString', 2)
 
 # control
-from .control import control_newton as control
+import ptracks.control.control_newton as control
 
 # -------------------------------------------------------------------------------------------------
 

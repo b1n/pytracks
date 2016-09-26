@@ -7,7 +7,7 @@ if [ -d $INSTALL_DIR/$PTRACKS ]; then
 	rm -f /usr/local/lib/python2.7/dist-packages/ptracks
 fi
 
-ln -s `pwd` /usr/local/lib/python2.7/dist-packages/ptracks
+ln -s `pwd`/ptracks /usr/local/lib/python2.7/dist-packages/ptracks
 
 #
 # /etc/ptracks
