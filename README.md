@@ -24,3 +24,11 @@ git clone https://github.com/contemmcm/ptracks.git
 
 ### Installation
 
+
+```
+cd ptracks
+sudo ./install
+```
+
+### Quick Start
+

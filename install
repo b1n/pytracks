@@ -3,6 +3,7 @@
 INSTALL_DIR=/usr/local/lib/python2.7/dist-packages
 PTRACKS=ptracks
 
+echo "Adding ptracks to Python path (/usr/local/lib/python2.7/dist-packages)"
 if [ -d $INSTALL_DIR/$PTRACKS ]; then
 	rm -f /usr/local/lib/python2.7/dist-packages/ptracks
 fi
@@ -12,7 +13,7 @@ ln -s `pwd`/ptracks /usr/local/lib/python2.7/dist-packages/ptracks
 #
 # /etc/ptracks
 #
-
+echo "Creating /etc/ptracks directory"
 if [ -d /etc/$PTRACKS ]; then
 	rm -rf /etc/ptracks
 fi
@@ -24,5 +25,15 @@ ln -s `pwd`/public_html /etc/ptracks/public_html
 #
 # /etc/init.d/ptracks
 #
+echo "Creating /etc/init.d/ptracks script"
 rm -rf /etc/init.d/ptracks
 ln -s `pwd`/bin/ptracks-daemon /etc/init.d/ptracks
+
+#
+# System binaries
+#
+echo "Copying binaries to /usr/local/bin/ptracks"
+rm -f /usr/local/bin/ptracks*
+sudo cp bin/* /usr/local/bin
+
+echo "Installation complete"
