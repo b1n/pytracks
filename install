@@ -17,6 +17,8 @@ if [ -d /etc/$PTRACKS ]; then
 	rm -rf /etc/ptracks
 fi
 sudo mkdir /etc/ptracks
+ln -s `pwd`/data /etc/ptracks/data
+ln -s `pwd`/tracks.cfg /etc/ptracks/tracks.cfg
 
 #
 # /etc/init.d/ptracks
