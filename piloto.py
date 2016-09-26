@@ -29,7 +29,7 @@ import sip
 sip.setapi('QString', 2)
 
 # control
-import control.control_piloto as control
+from .control import control_piloto as control
 
 # -------------------------------------------------------------------------------------------------
 

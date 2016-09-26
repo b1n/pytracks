@@ -32,11 +32,11 @@ import threading
 import time
 
 # model
-import model.glb_data as gdata
+from ..model import glb_data as gdata
 
 # control
-import control.events.events_manager as evtmgr
-import control.events.events_basic as events
+from ..control.events import events_manager as evtmgr
+from ..control.events import events_basic as events
 
 # < module data >----------------------------------------------------------------------------------
 

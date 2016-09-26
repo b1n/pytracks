@@ -32,8 +32,8 @@ sip.setapi('QString', 2)
 from PyQt4 import QtCore, QtGui
 
 # view
-import view.view_manager as view
-import view.wizard.dlg_wizard as wizard
+from . import view_manager as view
+from . .wizard import dlg_wizard as wizard
 
 # control
 import control.events.events_basic as events

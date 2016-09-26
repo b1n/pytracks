@@ -28,13 +28,13 @@ import logging
 import os
 
 # model
-import model.stock.airspace_basic as airs
+from ..stock import airspace_basic as airs
 
-import model.items.esp_data as espdata
-import model.items.sub_data as subdata
-import model.items.trj_data as trjdata
+from ..items import esp_data as espdata
+from ..items import sub_data as subdata
+from ..items import trj_data as trjdata
 
-import model.newton.defs_newton as ldefs
+from ..newton import defs_newton as ldefs
 
 # < module data >----------------------------------------------------------------------------------
 

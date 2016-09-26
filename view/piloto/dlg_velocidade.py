@@ -27,7 +27,7 @@ import os
 from PyQt4 import QtCore, QtGui
 
 # view
-import view.piloto.dlg_velocidade_ui as dlg
+from . import dlg_velocidade_ui as dlg
 
 # < module data >----------------------------------------------------------------------------------
 

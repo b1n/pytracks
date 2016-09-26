@@ -27,16 +27,16 @@ import os
 from PyQt4 import QtCore, QtGui
 
 # view
-import view.dbedit.dlg_aer_data_new as dlgaer
-import view.dbedit.dlg_exe_data_new as dlgexe
-import view.dbedit.dlg_fix_data_new as dlgfix
-import view.dbedit.dlg_prf_data_new as dlgprf
+from . import dlg_aer_data_new as dlgaer
+from . import dlg_exe_data_new as dlgexe
+from . import dlg_fix_data_new as dlgfix
+from . import dlg_prf_data_new as dlgprf
 # import view.dbedit.dlg_rad_data_new as dlgrad
 
-import view.dbedit.wnd_main_dbedit_ui as wmain_ui
+from . import wnd_main_dbedit_ui as wmain_ui
 
 # control
-import control.events.events_basic as events
+from ...control.events import events_basic as events
 
 # < module data >----------------------------------------------------------------------------------
 

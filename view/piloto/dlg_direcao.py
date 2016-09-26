@@ -26,7 +26,7 @@ import os
 from PyQt4 import QtCore, QtGui
 
 # view
-import view.piloto.dlg_direcao_ui as dlg
+from . import dlg_direcao_ui as dlg
 
 # < module data >----------------------------------------------------------------------------------
 

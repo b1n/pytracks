@@ -35,25 +35,25 @@ import sys
 from PyQt4 import QtCore, QtGui
 
 # model
-import model.coords.coord_conv as cconv
-import model.coords.coord_defs as cdefs
-import model.items.aer_data as aerdata
+from ...model.coords import coord_conv as cconv
+# import model.coords.coord_defs as cdefs
+# import model.items.aer_data as aerdata
 
 # import model.figuras.clsFig as clsFig
 
 # view
-import view.dbedit.dlg_aer_edit_new as dlgedit
+from . import dlg_aer_edit_new as dlgedit
 # import view.dbedit.dlgCabCAD as dlgCabCAD
 # import view.dbedit.dlgFig as dlgFig
 # import view.dbedit.dlgPNS as dlgPNS
 # import view.dbedit.dlgPstCAD as dlgPstCAD
 
-import view.dbedit.dlg_aer_data_new_ui as dlgdata
+from . import dlg_aer_data_new_ui as dlgdata
 
 # import view.dbedit.dlgView as dlgView
 
 # control
-import control.events.events_basic as events
+from ...control.events import events_basic as events
 
 # < module data >----------------------------------------------------------------------------------
 

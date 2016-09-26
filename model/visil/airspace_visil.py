@@ -28,18 +28,18 @@ import sys
 from PyQt4 import QtCore, QtXml
 
 # model
-import model.coords.pos_lat_lng as pll
+from ..coords import pos_lat_lng as pll
 
-import model.stock.airspace_basic as airs
-import model.stock.fix as cfix
-import model.stock.flight_plan_item as cfpi
-import model.stock.holding as cesp
-import model.stock.runway as crun
-import model.stock.standard_route as stdrt
+from ..stock import airspace_basic as airs
+from ..stock import fix as cfix
+from ..stock import flight_plan_item as cfpi
+from ..stock import holding as cesp
+from ..stock import runway as crun
+from ..stock import standard_route as stdrt
 
-import model.items.esp_data as espdata
-import model.items.sub_data as subdata
-import model.items.trj_data as trjdata
+from ..items import esp_data as espdata
+from ..items import sub_data as subdata
+from ..items import trj_data as trjdata
 
 # < module data >----------------------------------------------------------------------------------
 

@@ -26,10 +26,10 @@ import sys
 import time
 
 # model
-import model.tMath as tmath
+from .. import tMath as tmath
 
-import model.coords.pos_lat_lng as pll
-import model.stock.aircraft as sanv
+from ..coords import pos_lat_lng as pll
+from . import aircraft as sanv
 
 # < module data >----------------------------------------------------------------------------------
 

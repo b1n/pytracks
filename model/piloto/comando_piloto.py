@@ -23,9 +23,9 @@ __date__ = "2016/01"
 import logging
 
 # model
-import model.newton.defs_newton as ldefs
+from ..newton import defs_newton as ldefs
 
-import model.stock.instruction as inst
+from ..stock import instruction as inst
 
 # < module data >----------------------------------------------------------------------------------
 

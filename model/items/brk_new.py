@@ -24,11 +24,11 @@ import logging
 import sys
 
 # model
-import model.coords.coord_defs as cdefs
-import model.items.brk_model as model
+from ..coords import coord_defs as cdefs
+from . import brk_model as model
 
 # control
-import control.events.events_basic as events
+from ...control.events import events_basic as events
 
 # < module data >----------------------------------------------------------------------------------
 

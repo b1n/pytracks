@@ -23,10 +23,10 @@ __date__ = "2015/11"
 import logging
 
 # model
-import model.newton.defs_newton as ldefs
-import model.coords.coord_defs as cdefs
-import model.emula.cine.abort_prc as abnd
-import model.emula.cine.sentido_curva as scrv
+from ...newton import defs_newton as ldefs
+from ...coords import coord_defs as cdefs
+from ...emula.cine import abort_prc as abnd
+from ...emula.cine import sentido_curva as scrv
 
 # < module data >----------------------------------------------------------------------------------
 

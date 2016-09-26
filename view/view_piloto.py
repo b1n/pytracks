@@ -31,11 +31,11 @@ sip.setapi('QString', 2)
 from PyQt4 import QtCore, QtGui
 
 # view
-import view.view_manager as view
-import view.piloto.wnd_main_piloto as wmain
+from . import view_manager as view
+from .piloto import wnd_main_piloto as wmain
 
 # control
-import control.events.events_basic as events
+from ..control.events import events_basic as events
 
 # < module data >----------------------------------------------------------------------------------
 

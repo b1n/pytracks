@@ -31,8 +31,8 @@ import struct
 import time
 
 # model
-import model.glb_data as gdata
-import model.glb_defs as gdefs
+from ...model import glb_data as gdata
+from ...model import glb_defs as gdefs
 
 # < module data >----------------------------------------------------------------------------------
 

@@ -26,10 +26,10 @@ import os
 from PyQt4 import QtCore, QtGui
 
 # model
-import model.coords.coord_defs as cdefs
+from ...model.coords import coord_defs as cdefs
 
 # view
-import view.piloto.dlg_altitude_ui as dlg
+from . import dlg_altitude_ui as dlg
 
 # < module data >----------------------------------------------------------------------------------
 

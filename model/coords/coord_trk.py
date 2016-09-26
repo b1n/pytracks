@@ -25,7 +25,7 @@ import math
 # import re
 
 # TrackS / model
-import model.glb_defs as gdefs
+from .. import glb_defs as gdefs
 
 # TrackS / model / coord
 import model.coord.coord_base as coord

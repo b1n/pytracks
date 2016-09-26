@@ -29,23 +29,23 @@ import time
 from PyQt4 import QtCore, QtGui
 
 # model
-import model.visil.defs_visil as ldefs
+from ...model.visil import defs_visil as ldefs
 # import model.visil.airspace as airs
 # import model.visil.landscape as lands
 # import model.visil.weather as wtr
-import model.visil.strip_model as mstp
-import model.visil.strip_table_model as stm
+# import model.visil.strip_model as mstp
+from ...model.visil import strip_table_model as stm
 
 # view
-import view.visil.radar_scope as rdrscp
-import view.visil.statusbar_visil as stbar
-import view.visil.strip_visil as strp
+from . import radar_scope as rdrscp
+from . import statusbar_visil as stbar
+from . import strip_visil as strp
 #import view.visil.wid_runway_config as wrc
 #import view.visil.wid_weather_config as wwc
-import view.visil.wnd_main_visil_ui as wndmain_ui
+from . import wnd_main_visil_ui as wndmain_ui
 
 # control
-import control.events.events_basic as events
+from ...control.events import events_basic as events
 
 # resources
 import icons_rc

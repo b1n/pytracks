@@ -24,21 +24,21 @@ import logging
 import math
 
 # model
-import model.newton.defs_newton as ldefs
-import model.coords.coord_defs as cdefs
+from ...newton import defs_newton as ldefs
+# import model.coords.coord_defs as cdefs
 
-import model.emula.cine.cine_calc as cincalc
-import model.emula.cine.cine_model as cinmodel
+# import model.emula.cine.cine_calc as cincalc
+from ...emula.cine import cine_model as cinmodel
 
-import model.emula.cine.obtem_brk as obrk
-import model.emula.cine.prc_decolagem as dep
-import model.emula.cine.prc_dir_fixo as dfix
-import model.emula.cine.prc_espera as esp
-import model.emula.cine.prc_pouso as arr
-import model.emula.cine.prc_subida as sub
-import model.emula.cine.prc_trajetoria as trj
-import model.emula.cine.dados_dinamicos as cine
-import model.emula.cine.trata_associado as tass
+# import model.emula.cine.obtem_brk as obrk
+from ...emula.cine import prc_decolagem as dep
+from ...emula.cine import prc_dir_fixo as dfix
+from ...emula.cine import prc_espera as esp
+from ...emula.cine import prc_pouso as arr
+from ...emula.cine import prc_subida as sub
+from ...emula.cine import prc_trajetoria as trj
+from ...emula.cine import dados_dinamicos as cine
+from ...emula.cine import trata_associado as tass
 
 # < module data >----------------------------------------------------------------------------------
 

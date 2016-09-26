@@ -27,10 +27,10 @@ import time
 import SocketServer
 
 # model
-import model.glb_data as gdata
+from ..model import glb_data as gdata
 
 # view
-import view.visweb.view_handler as vhnd
+from .visweb import view_handler as vhnd
 
 # < module data >----------------------------------------------------------------------------------
 

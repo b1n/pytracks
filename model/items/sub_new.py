@@ -24,11 +24,11 @@ import logging
 import sys
 
 # model
-import model.items.prc_model as model
-import model.items.brk_new as brknew
+from . import prc_model as model
+from . import brk_new as brknew
 
 # control
-import control.events.events_basic as event
+from ...control.events import events_basic as event
 
 # < module data >----------------------------------------------------------------------------------
 

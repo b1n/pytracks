@@ -25,14 +25,14 @@ import sys
 from PyQt4 import QtCore, QtGui
 
 # model
-import model.items.fix_data as dctFix
+from ...model.items import fix_data as dctFix
 
 # view
-import view.dbedit.dlg_fix_edit_new as dlgFixEditNEW
-import view.dbedit.dlg_fix_data_new_ui as dlgFixDataNEW_ui
+from . import dlg_fix_edit_new as dlgFixEditNEW
+from . import dlg_fix_data_new_ui as dlgFixDataNEW_ui
 
 # control
-import control.events.events_basic as events
+from ...control.events import events_basic as events
 
 # < variáveis globais >----------------------------------------------------------------------------
 

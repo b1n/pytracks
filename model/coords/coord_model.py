@@ -23,9 +23,9 @@ __date__ = "2015/11"
 # import logging
 
 # model
-import model.coords.coord_defs as cdefs
-import model.coords.coord_conv as conv
-import model.coords.coord_geod as geod
+from ..coords import coord_defs as cdefs
+from ..coords import coord_conv as conv
+from ..coords import coord_geod as geod
 
 # < module data >----------------------------------------------------------------------------------
 

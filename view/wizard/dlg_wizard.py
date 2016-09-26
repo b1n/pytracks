@@ -26,10 +26,10 @@ import os
 import model.glb_data as gdata
 
 # view / wizard
-import view.wizard.wizard_model as model
-import view.wizard.wpg_config_canal as wcanal
-import view.wizard.wpg_config_exe as wexe
-import view.wizard.wpg_termina as wterm
+from . import wizard_model as model
+from . import wpg_config_canal as wcanal
+from . import wpg_config_exe as wexe
+from . import wpg_termina as wterm
 
 # < module data >----------------------------------------------------------------------------------
 

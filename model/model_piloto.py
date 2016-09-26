@@ -25,10 +25,10 @@ import os
 import sys
 
 # model
-import model.model_manager as model
-import model.coords.coord_sys as coords
-import model.emula.emula_piloto as emula
-import model.piloto.airspace_piloto as airs
+from . import model_manager as model
+from .coords import coord_sys as coords
+from .emula import emula_piloto as emula
+from .piloto import airspace_piloto as airs
 
 # control
 import control.events.events_basic as events

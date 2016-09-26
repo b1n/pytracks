@@ -25,19 +25,19 @@ import threading
 import time
 
 # model
-import model.glb_data as gdata
-import model.glb_defs as gdefs
+from .. import glb_data as gdata
+from .. import glb_defs as gdefs
 
-import model.coords.coord_defs as cdefs
+from ..coords import coord_defs as cdefs
 
-import model.emula.cine.abort_prc as abnd
-import model.emula.cine.cine_data as cindata
+from  ..emula.cine import abort_prc as abnd
+from ..emula.cine import cine_data as cindata
 # import model.emula.cine.cine_solo as cinsolo
-import model.emula.cine.cine_voo as cinvoo
-import model.emula.cine.sentido_curva as scrv
+from ..emula.cine import cine_voo as cinvoo
+from ..emula.cine import sentido_curva as scrv
 
-import model.newton.defs_newton as ldefs
-import model.piloto.comando_piloto as cmdpil
+from ..newton import defs_newton as ldefs
+from ..piloto import comando_piloto as cmdpil
 
 # < module data >----------------------------------------------------------------------------------
 

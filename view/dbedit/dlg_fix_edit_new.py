@@ -24,10 +24,10 @@ import os
 from PyQt4 import QtCore, QtGui
 
 # model / items
-import model.items.fix_new as clsFix
+from ...model.items import fix_new as clsFix
 
 # view / dialog / Qt
-import view.dbedit.dlg_fix_edit_new_ui as dlgFixEditNEW_ui
+from . import dlg_fix_edit_new_ui as dlgFixEditNEW_ui
 
 # < variáveis globais >--------------------------------------------------------------------------
 

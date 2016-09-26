@@ -32,12 +32,12 @@ import logging
 from PyQt4 import QtCore
 
 # model
-import model.coords.coord_conv as cconv
-import model.coords.coord_defs as cdefs
+from ..coords import coord_conv as cconv
+# import model.coords.coord_defs as cdefs
 
 #import model.glb_data as gdata
-import model.visil.defs_visil as ldefs
-import model.visil.aircraft_visil as anvmdl
+from . import defs_visil as ldefs
+# import model.visil.aircraft_visil as anvmdl
 
 # < module data >----------------------------------------------------------------------------------
 

@@ -21,7 +21,7 @@ __date__ = "2015/11"
 # < imports >--------------------------------------------------------------------------------------
 
 # control
-import control.events.events_model as model
+from . import events_model as model
 
 # < class CFlightExplode >--------------------------------------------------------------------------
 

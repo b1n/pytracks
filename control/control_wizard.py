@@ -24,11 +24,11 @@ __date__ = "2015/11"
 import model.model_wizard as model
 
 # view
-import view.view_wizard as view
+from ..view import view_wizard as view
 
 # control
-import control.control_manager as control
-import control.config.config_wizard as config
+from ..control import control_manager as control
+from ..control.config import config_wizard as config
 
 # < class CControlWizard >-------------------------------------------------------------------------
 

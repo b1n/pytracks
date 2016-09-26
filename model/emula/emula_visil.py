@@ -26,14 +26,14 @@ import threading
 import time
 
 # model
-import model.glb_data as gdata
-import model.glb_defs as gdefs
+from .. import glb_data as gdata
+from .. import glb_defs as gdefs
 
-import model.emula.emula_model as model
-import model.visil.aircraft_visil as canv
+from ..emula import emula_model as model
+from ..visil import aircraft_visil as canv
 
 # control
-import control.events.events_flight as events
+from ...control.events import events_flight as events
 
 # < module data >----------------------------------------------------------------------------------
 

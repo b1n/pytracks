@@ -24,19 +24,16 @@ import logging
 import os.path
 
 # model
-import model.model_manager as model
+from . import model_manager as model
 
-import model.coords.coord_sys as coords
-import model.emula.emula_newton as emula
+from .coords import coord_sys as coords
+from .emula import emula_newton as emula
 
-#import model.items.aer_data as aerdata
-import model.items.exe_data as exedata
-#import model.items.fix_data as fixdata
-import model.items.prf_data as prfdata
-import model.items.trf_data as trfdata
+from .items import exe_data as exedata
+from .items import prf_data as prfdata
+from .items import trf_data as trfdata
 
-import model.newton.airspace_newton as airs
-import model.newton.defs_newton as ldefs
+from .newton import airspace_newton as airs
 
 # < module data >----------------------------------------------------------------------------------
 

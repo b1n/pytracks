@@ -24,10 +24,10 @@ import os
 from PyQt4 import QtCore, QtGui
 
 # model
-import model.items.exe_new as clsExe
+from ...model.items import exe_new as clsExe
 
 # view
-import view.dbedit.dlg_exe_edit_new_ui as dlg
+from . import dlg_exe_edit_new_ui as dlg
 
 # < variáveis globais >----------------------------------------------------------------------------
 

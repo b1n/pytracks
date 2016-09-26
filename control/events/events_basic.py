@@ -24,7 +24,7 @@ __date__ = "2015/11"
 # import logging
 
 # events
-import control.events.events_model as model
+from . import events_model as model
 
 # < module data >----------------------------------------------------------------------------------
 

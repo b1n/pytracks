@@ -31,13 +31,13 @@ sip.setapi('QString', 2)
 from PyQt4 import QtGui
 
 # view
-import view.view_manager as view
+from . import view_manager as view
 
 # view / dbEdit
-import view.dbedit.wnd_main_dbedit as wmain
+from .dbedit import wnd_main_dbedit as wmain
 
 # control / events
-import control.events.events_basic as events
+from ..control.events import events_basic as events
 
 # < module data >----------------------------------------------------------------------------------
 

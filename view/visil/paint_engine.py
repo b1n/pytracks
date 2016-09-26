@@ -26,11 +26,11 @@ import logging
 from PyQt4 import QtCore, QtGui
 
 # model
-import model.newton.defs_newton as ldefs
-import model.tMath as tMath
+from ...model.newton import defs_newton as ldefs
+from ...model import tMath as tMath
 
-import model.coords.pos_lat_lng as pll
-import model.stock.fix as cfix
+from ...model.coords import pos_lat_lng as pll
+from ...model.stock import fix as cfix
 
 # < module data >----------------------------------------------------------------------------------
 

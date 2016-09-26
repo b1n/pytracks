@@ -20,14 +20,14 @@ __date__ = "2015/11"
 # < imports >--------------------------------------------------------------------------------------
 
 # model
-import model.model_dbedit as model
+from ..model import model_dbedit as model
 
 # view
-import view.view_dbedit as view
+from ..view import view_dbedit as view
 
 # control
-import control.control_manager as control
-import control.config.config_dbedit as config
+from ..control import control_manager as control
+from ..control.config import config_dbedit as config
 
 # < class CControlDBEdit >--------------------------------------------------------------------------
 

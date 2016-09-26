@@ -27,14 +27,14 @@ import sys
 from PyQt4 import QtCore, QtGui
 
 # model / items
-import model.items.exe_data as dctExe
+# import model.items.exe_data as dctExe
 
 # view / dialog / Qt
-import view.dbedit.dlg_exe_edit_new as dlgEdit
-import view.dbedit.dlg_exe_data_new_ui as dlgData_ui
+from . import dlg_exe_edit_new as dlgEdit
+from . import dlg_exe_data_new_ui as dlgData_ui
 
 # control / events
-import control.events.events_basic as events
+from ...control.events import events_basic as events
 
 # < module data >----------------------------------------------------------------------------------
 

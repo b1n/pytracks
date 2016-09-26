@@ -23,7 +23,7 @@ __date__ = "2016/01"
 import logging
 
 # model
-import model.coords.pos_lat_lng as pll
+from ..coords import pos_lat_lng as pll
 
 # < module data >----------------------------------------------------------------------------------
 

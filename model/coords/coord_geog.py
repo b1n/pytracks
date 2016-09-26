@@ -23,8 +23,8 @@ __date__ = "2016/01"
 import logging
 import math
 
-import coord_conv as conv
-import coord_defs as cdefs
+from . import coord_conv as conv
+from . import coord_defs as cdefs
 
 # < module data >----------------------------------------------------------------------------------
 

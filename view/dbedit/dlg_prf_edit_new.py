@@ -24,10 +24,10 @@ import os
 from PyQt4 import QtCore, QtGui
 
 # model / items
-import model.items.prf_new as dctPrf
+from ...model.items import prf_new as dctPrf
 
 # view / dialog / Qt
-import view.dbedit.dlg_prf_edit_new_ui as dlgPrfEditNEW_ui
+from . import dlg_prf_edit_new_ui as dlgPrfEditNEW_ui
 
 # < variáveis globais >--------------------------------------------------------------------------
 

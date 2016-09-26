@@ -27,11 +27,11 @@ import sys
 from PyQt4 import QtCore, QtXml
 
 # model
-import model.items.sub_new as model
-import model.items.parser_utils as parser
+from . import sub_new as model
+from . import parser_utils as parser
 
 # control
-import control.events.events_basic as event
+from ...control.events import events_basic as event
 
 # < module data >----------------------------------------------------------------------------------
 

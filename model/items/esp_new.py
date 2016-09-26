@@ -24,11 +24,11 @@ import logging
 import sys
 
 # model
-import model.items.prc_model as model
-import model.newton.defs_newton as ldefs
+from . import prc_model as model
+from ..newton import defs_newton as ldefs
 
 # control
-import control.events.events_basic as events
+from ...control.events import events_basic as events
 
 # < module data >----------------------------------------------------------------------------------
 

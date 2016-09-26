@@ -24,11 +24,11 @@ import logging
 # import math
 
 # model
-import model.newton.defs_newton as ldefs
+from ...newton import defs_newton as ldefs
 
-import model.emula.cine.obtem_brk as obrk
-import model.emula.cine.prc_dir_ponto as dp
-import model.emula.cine.trata_associado as tass
+from ...emula.cine import obtem_brk as obrk
+from ...emula.cine import prc_dir_ponto as dp
+from ...emula.cine import trata_associado as tass
 
 # < module data >----------------------------------------------------------------------------------
 

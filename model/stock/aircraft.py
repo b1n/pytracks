@@ -24,8 +24,8 @@ import copy
 # import logging
 
 # model
-import model.coords.pos_lat_lng as pll
-import model.stock.adiru as cadi
+from ..coords import pos_lat_lng as pll
+from . import adiru as cadi
 
 # < module data >----------------------------------------------------------------------------------
 

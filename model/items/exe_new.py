@@ -24,10 +24,10 @@ import logging
 import sys
 
 # model
-import model.items.exe_model as model
+from . import exe_model as model
 
 # control
-import control.events.events_basic as events
+from ...control.events import events_basic as events
 
 # < module data >----------------------------------------------------------------------------------
 

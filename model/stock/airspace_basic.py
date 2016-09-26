@@ -28,8 +28,8 @@ import logging
 import os
 
 # model
-import model.items.aer_data as aerdata
-import model.items.fix_data as fixdata
+from ..items import aer_data as aerdata
+from ..items import fix_data as fixdata
 
 # < module data >----------------------------------------------------------------------------------
 

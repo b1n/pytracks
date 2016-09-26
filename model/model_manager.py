@@ -29,9 +29,9 @@ __date__ = "2016/08"
 # import logging
 
 # control
-import control.events.events_manager as event
+from ..control.events import events_manager as event
 
-import control.config.config_manager as config
+from ..control.config import config_manager as config
 
 # < module data >----------------------------------------------------------------------------------
 

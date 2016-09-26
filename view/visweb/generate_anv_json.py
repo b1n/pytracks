@@ -24,7 +24,7 @@ __date__ = "2015/11"
 import time
 
 # model
-import model.coords.coord_defs as cdefs
+from ...model.coords import coord_defs as cdefs
 
 # < module data >----------------------------------------------------------------------------------
 

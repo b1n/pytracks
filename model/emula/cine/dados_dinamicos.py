@@ -24,11 +24,11 @@ import logging
 import math
 
 # model
-import model.glb_data as gdata
-import model.newton.defs_newton as ldefs
-import model.coords.coord_defs as cdefs
+from ... import glb_data as gdata
+from ...newton import defs_newton as ldefs
+from ...coords import coord_defs as cdefs
 
-import model.emula.cine.calc_proa_demanda as cpd
+from ...emula.cine import calc_proa_demanda as cpd
 
 # < module data >----------------------------------------------------------------------------------
 

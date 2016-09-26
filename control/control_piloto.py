@@ -26,22 +26,22 @@ import Queue
 import time
 
 # model
-import model.glb_data as gdata
-import model.glb_defs as gdefs
-import model.model_piloto as model
+from ..model import glb_data as gdata
+from ..model import glb_defs as gdefs
+from ..model import model_piloto as model
 
 # view
-import view.view_piloto as view
+from ..view import view_piloto as view
 
 # control
-import control.control_basic as control
-import control.config.config_piloto as config
-import control.events.events_config as events
-import control.network.get_address as gaddr
-import control.network.net_http_get as httpsrv
-import control.network.net_listener as listener
-import control.network.net_sender as sender
-import control.simula.sim_time as stime
+from ..control import control_basic as control
+from ..control.config import config_piloto as config
+from ..control.events import events_config as events
+from ..control.network import get_address as gaddr
+from ..control.network import net_http_get as httpsrv
+from ..control.network import net_listener as listener
+from ..control.network import net_sender as sender
+from ..control.simula import sim_time as stime
 
 # < module data >----------------------------------------------------------------------------------
 

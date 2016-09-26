@@ -23,23 +23,22 @@ __date__ = "2015/12"
 import logging
 import multiprocessing
 import Queue
-import sys
 import time
 
 # model
-import model.glb_data as gdata
-import model.glb_defs as gdefs
-import model.model_visil as model
+from ..model import glb_data as gdata
+from ..model import glb_defs as gdefs
+from ..model import model_visil as model
 
 # view
-import view.view_visil as view
+from ..view import view_visil as view
 
 # control
-import control.control_basic as control
-import control.config.config_visil as config
-import control.network.get_address as gaddr
-import control.network.net_listener as listener
-import control.simula.sim_time as stime
+from ..control import control_basic as control
+from ..control.config import config_visil as config
+from ..control.network import get_address as gaddr
+from ..control.network import net_listener as listener
+from ..control.simula import sim_time as stime
 
 # < module data >----------------------------------------------------------------------------------
 

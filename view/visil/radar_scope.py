@@ -29,16 +29,16 @@ import sys
 from PyQt4 import QtCore, QtGui
 
 # model
-import model.tMath as tMath
-import model.newton.defs_newton as ldefs
+from ...model import tMath as tMath
+from ...model.newton import defs_newton as ldefs
 
-import model.coords.pos_lat_lng as pll
-import model.coords.pos_xy as pxy
+# import model.coords.pos_lat_lng as pll
+from ...model.coords import pos_xy as pxy
 #import model.visil.clsAircraft as clsAircraft
 
 # view
-import view.visil.viewport as vwp
-import view.visil.paint_engine as peng
+from . import viewport as vwp
+from . import paint_engine as peng
 #import view.visil.map.displayElement as displayElement
 #import view.visil.map.viewMap as viewMap
 

@@ -24,7 +24,7 @@ __date__ = "2015/11"
 import math
 
 # model
-import model.newton.defs_newton as ldefs
+from ...newton import defs_newton as ldefs
 
 # < module data >----------------------------------------------------------------------------------
 

@@ -30,22 +30,22 @@ from mpi4py import MPI
 # import mpi4py
 
 # model
-import model.glb_data as gdata
-import model.glb_defs as gdefs
+from ..model import glb_data as gdata
+from ..model import glb_defs as gdefs
 
-import model.model_newton as model
+from ..model import model_newton as model
 
 # view
-import view.view_newton as view
+from ..view import view_newton as view
 
 # control
-import control.events.events_basic as events
-import control.control_basic as control
-import control.config.config_newton as config
-import control.network.get_address as gaddr
-import control.network.net_listener as listener
-import control.network.net_sender as sender
-import control.simula.sim_time as stime
+from ..control.events import events_basic as events
+from ..control import control_basic as control
+from ..control.config import config_newton as config
+from ..control.network import get_address as gaddr
+from ..control.network import net_listener as listener
+from ..control.network import net_sender as sender
+from ..control.simula import sim_time as stime
 
 # < module data >----------------------------------------------------------------------------------
 

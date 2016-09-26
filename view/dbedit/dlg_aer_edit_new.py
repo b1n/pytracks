@@ -27,7 +27,7 @@ import os
 from PyQt4 import QtCore, QtGui
 
 # model
-import model.items.aer_new as model
+from ...model.items import aer_new as model
 
 # view
 import view.dbedit.dlg_aer_edit_new_ui as dlg

@@ -25,14 +25,14 @@ import sys
 from PyQt4 import QtCore, QtGui
 
 # model
-import model.items.prf_data as dctprf
+# import model.items.prf_data as dctprf
 
 # view
-import view.dbedit.dlg_prf_edit_new as dlgPrfEditNEW
-import view.dbedit.dlg_prf_data_new_ui as dlgPrfDataNEW_ui
+from . import dlg_prf_edit_new as dlgPrfEditNEW
+from . import dlg_prf_data_new_ui as dlgPrfDataNEW_ui
 
 # control
-import control.events.events_basic as events
+from ...control.events import events_basic as events
 
 # < variáveis globais >----------------------------------------------------------------------------
 

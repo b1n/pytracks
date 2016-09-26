@@ -25,8 +25,8 @@ __date__ = "2016/01"
 from PyQt4 import QtCore, QtGui
 
 # view / wizard
-import view.wizard.wizard_page_model as wpm
-import view.wizard.wpg_termina_ui as wterm_ui
+from . import wizard_page_model as wpm
+from . import wpg_termina_ui as wterm_ui
 
 # < module data >----------------------------------------------------------------------------------
 

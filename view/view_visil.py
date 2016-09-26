@@ -28,11 +28,11 @@ import sys
 from PyQt4 import QtCore, QtGui
 
 # view
-import view.view_manager as view
-import view.visil.wnd_main_visil as wmain
+from . import view_manager as view
+from .visil import wnd_main_visil as wmain
 
 # control
-import control.events.events_basic as event
+from ..control.events import events_basic as event
 
 # < module data >----------------------------------------------------------------------------------
 

@@ -26,7 +26,7 @@ __date__ = "2016/08"
 # import logging
 
 # control
-import control.control_manager as control
+from . import control_manager as control
 
 # < module data >----------------------------------------------------------------------------------
 

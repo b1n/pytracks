@@ -25,7 +25,7 @@ import logging
 import time
 
 # model
-import model.coords.coord_defs as cdefs
+from ...model.coords import coord_defs as cdefs
 
 # < module data >----------------------------------------------------------------------------------
 

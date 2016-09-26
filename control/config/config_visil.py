@@ -25,10 +25,10 @@ import argparse
 import os
 
 # model
-import model.data as data
+from ...model import data as data
 
 # control
-import control.config.config_manager as config
+from ...control.config import config_manager as config
 
 # < module data >----------------------------------------------------------------------------------
 

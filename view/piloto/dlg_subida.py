@@ -28,7 +28,7 @@ import os
 from PyQt4 import QtCore, QtGui
 
 # view
-import view.piloto.dlg_subida_ui as dlg
+from . import dlg_subida_ui as dlg
 
 # < module data >----------------------------------------------------------------------------------
 

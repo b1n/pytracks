@@ -23,11 +23,11 @@ __date__ = "2015/11"
 import logging
 
 # model
-import model.newton.defs_newton as ldefs
+from ...newton import defs_newton as ldefs
 
-import model.coords.coord_defs as cdefs
-import model.emula.cine.calc_proa_demanda as cpd
-import model.emula.cine.trata_associado as tass
+from ...coords import coord_defs as cdefs
+from ...emula.cine import calc_proa_demanda as cpd
+from ...emula.cine import trata_associado as tass
 
 # < module data >----------------------------------------------------------------------------------
 

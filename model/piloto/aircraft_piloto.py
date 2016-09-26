@@ -26,12 +26,11 @@ import sys
 import time
 
 # model
-import model.tMath as tmath
+# import model.tMath as tmath
 
-import model.coords.pos_lat_lng as pll
-import model.stock.aircraft_basic as sanv
-
-import model.piloto.strip_model as mstp
+# import model.coords.pos_lat_lng as pll
+from ..stock import aircraft_basic as sanv
+from ..piloto import strip_model as mstp
 
 #import model.visadsb.auto_pilot as CAutoPilot
 #import model.visadsb.fms as CFMS

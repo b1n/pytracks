@@ -25,7 +25,7 @@ import logging
 import time
 
 # model
-import model.newton.defs_newton as ldefs
+from ...model.newton import defs_newton as ldefs
 
 # < module data >----------------------------------------------------------------------------------
 

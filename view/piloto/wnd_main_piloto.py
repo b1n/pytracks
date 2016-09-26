@@ -33,35 +33,35 @@ sip.setapi('QString', 2)
 from PyQt4 import QtCore, QtGui
 
 # model
-import model.glb_defs as gdefs
+from ...model import glb_defs as gdefs
 
-import model.piloto.aircraft_piloto as anv
-import model.piloto.defs_piloto as ldefs
-import model.piloto.strip_model as mstp
-import model.piloto.strip_table_model as stm
+from ...model.piloto import aircraft_piloto as anv
+from ...model.piloto import defs_piloto as ldefs
+# import model.piloto.strip_model as mstp
+from ...model.piloto import strip_table_model as stm
 
 # view
-import view.piloto.statusbar_piloto as statusbar
-import view.piloto.strip_visil as strips
-import view.piloto.wnd_main_piloto_ui as wndmain_ui
+from ...view.piloto import statusbar_piloto as statusbar
+from ...view.piloto import strip_visil as strips
+from ...view.piloto import wnd_main_piloto_ui as wndmain_ui
 
-import view.piloto.dlg_altitude as dlgalt
-import view.piloto.dlg_decolagem as dlgdep
-import view.piloto.dlg_direcao as dlgdir
-import view.piloto.dlg_dir_fixo as dlgfix
-import view.piloto.dlg_espera as dlgesp
-import view.piloto.dlg_pouso as dlgarr
-import view.piloto.dlg_subida as dlgsub
-import view.piloto.dlg_trajetoria as dlgtrj
-import view.piloto.dlg_velocidade as dlgvel
+from ...view.piloto import dlg_altitude as dlgalt
+from ...view.piloto import dlg_decolagem as dlgdep
+from ...view.piloto import dlg_direcao as dlgdir
+from ...view.piloto import dlg_dir_fixo as dlgfix
+from ...view.piloto import dlg_espera as dlgesp
+from ...view.piloto import dlg_pouso as dlgarr
+from ...view.piloto import dlg_subida as dlgsub
+from ...view.piloto import dlg_trajetoria as dlgtrj
+from ...view.piloto import dlg_velocidade as dlgvel
 
 # control
-import control.events.events_basic as events
-import control.events.events_config as evtcfg
+from ...control.events import events_basic as events
+from ...control.events import events_config as evtcfg
 
 # resources
-import icons_rc
-import resources_visil_rc
+# import icons_rc
+# import resources_visil_rc
 
 # < module data >----------------------------------------------------------------------------------
 

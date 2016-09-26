@@ -26,11 +26,11 @@ import math
 import re
 
 # model
-import model.coords.coord_model as model
-import model.coords.coord_conv as conv
-import model.coords.coord_defs as cdefs
-import model.coords.coord_geod as geod
-import model.coords.coord_geog as geog
+from . import coord_model as model
+from . import coord_conv as conv
+from . import coord_defs as cdefs
+from . import coord_geod as geod
+from . import coord_geog as geog
 
 # < module data >----------------------------------------------------------------------------------
 

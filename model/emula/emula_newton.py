@@ -26,17 +26,17 @@ import threading
 import time
 
 # model
-import model.glb_data as gdata
-import model.glb_defs as gdefs
+from .. import glb_data as gdata
+from .. import glb_defs as gdefs
 
-import model.emula.emula_model as model
-import model.emula.flight_engine as engine
-import model.emula.cine.cine_calc as cincalc
+from ..emula import emula_model as model
+from ..emula import flight_engine as engine
+from ..emula.cine import cine_calc as cincalc
 
-import model.items.atv_new as atv
-import model.items.trf_new as trf
+from ..items import atv_new as atv
+from ..items import trf_new as trf
 
-import model.newton.defs_newton as ldefs
+from ..newton import defs_newton as ldefs
 
 # < module data >----------------------------------------------------------------------------------
 

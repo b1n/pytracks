@@ -31,9 +31,9 @@ import ConfigParser
 import os
 
 # model
-import model.glb_data as gdata
-import model.glb_defs as gdefs
-import model.coords.coord_defs as cdefs
+from ...model import glb_data as gdata
+from ...model import glb_defs as gdefs
+from ...model.coords import coord_defs as cdefs
 
 # < module data >----------------------------------------------------------------------------------
 

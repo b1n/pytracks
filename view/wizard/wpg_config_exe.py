@@ -27,11 +27,11 @@ import sys
 from PyQt4 import QtCore, QtGui
 
 # control / events
-import control.events.events_basic as events
+from ...control.events import events_basic as events
 
 # view / wizard
-import view.wizard.wizard_page_model as wpm
-import view.wizard.wpg_config_exe_ui as wexe_ui
+from . import wizard_page_model as wpm
+from . import wpg_config_exe_ui as wexe_ui
 
 # < module data >----------------------------------------------------------------------------------
 

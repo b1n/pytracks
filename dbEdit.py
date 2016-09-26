@@ -27,7 +27,7 @@ import sip
 sip.setapi('QString', 2)
 
 # control
-import control.control_dbedit as control
+from .control import control_dbedit as control
 
 # -------------------------------------------------------------------------------------------------
 
