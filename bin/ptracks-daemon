@@ -4,13 +4,23 @@ PID_PATH_NAME=/tmp/ptracks.pid
 MCAST_GW=172.17.255.254
 PTRACKS_CONF=/etc/ptracks
 
-# Reset
+# Colors
 COLOR_OFF='\033[0m'       # Text Reset
 RED='\033[0;31m'          # Red
 GREEN='\033[0;32m'        # Green
 
 case $1 in
     start)
+
+    	if [ "$#" -ne 2 ]; then
+    		echo "Please, specify the exercise name to start. Example:"
+    		echo ""
+    		echo "\$ service ptracks start <EXERCISE>"
+    		echo ""
+    		echo "Refer to /etc/ptracks/data/exes for available options."
+    		exit
+		fi
+
         printf " * Starting $SERVICE_NAME (exercise $2)\n"
         if [ ! -f $PID_PATH_NAME ]; then
             sleep 1
