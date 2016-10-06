@@ -1,5 +1,5 @@
 # ptracks
-Pyhon track generator for air traffic control 
+Python track generator for air traffic control 
 
 ## Install (Ubuntu 14.04)
 
