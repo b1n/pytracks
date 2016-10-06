@@ -1,6 +1,8 @@
 # ptracks
 Python track generator for air traffic control 
 
+Esse documento pode ser lido em [Português Brasileiro](https://github.com/contemmcm/ptracks/blob/master/README_pt-br.md)  
+
 ## Install (Ubuntu 14.04)
 
 
