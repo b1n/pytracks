@@ -19,10 +19,13 @@ ptracks-pilot
 
 Com isso inicia a interface de pilotagem
 
-### Identificação dos itens de pilotagem (Contribuição do Alexandre Magno)
+### Identificação dos itens de pilotagem (Contribuição do Alexandre Magno, Me.)
 
 
 1. Lista de Voos: processa e apresenta informações como: ICAO ID, Calssign, SSR, PRF, Latitude, Longitude, Proa, Velocidade, Razão e AGE. Essas informaçõpes são obtidas através de trocas de mensagens entre a IHM Piloto e o sistema “newton”.
+
+![alt tag] (https://github.com/contemmcm/ptracks/blob/master/lista-voo.png)
+
 
 2. Fichas de Progessão de Voo (Strips): local que será apresentado o plano de voo das aeronaves.
 
@@ -31,7 +34,8 @@ Com isso inicia a interface de pilotagem
 4. Comandos: será composto por uma área de botões que compreende os comandos: Direção, Velocidade, Altitude, Trajetória, Dir. Fixo, Espera, Aproximação, Apx.Perdida, ILS, Pouso, Decolagem, Cancdela, SSR, SPI e EMG.
 
 5. Execução de Comandos ( √  ): recebe uma cadeia de comandos a serem executados.
-Histórico de Comandos: armazena os comandos executados
+
+6.Histórico de Comandos: armazena os comandos executados
 
 (inserir a tela com as identificações )
 
