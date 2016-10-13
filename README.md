@@ -3,6 +3,8 @@ Python track generator for air traffic control
 
 Esse documento pode ser lido em [Português Brasileiro](https://github.com/contemmcm/ptracks/blob/master/README_pt-br.md)  
 
+Guia de usuário do módulo Pilot em [Português Brasileiro](https://github.com/contemmcm/ptracks/blob/master/user-guide_pt-br.md)
+
 ## Install (Ubuntu 14.04)
 
 

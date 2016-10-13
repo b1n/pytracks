@@ -1,6 +1,8 @@
 # ptracks
 Gerador de rotas para controle do trafégo aeréo, feito em Python 
 
+Guia de usuário do módulo Pilot em [Português Brasileiro](https://github.com/contemmcm/ptracks/blob/master/user-guide_pt-br.md)
+
 ## Instalação (Ubuntu 14.04)
 
 
