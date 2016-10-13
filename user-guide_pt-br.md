@@ -1,7 +1,6 @@
 # Guia do Uso Rápido ptracks-pilot versão 0.1
 Guia de uso do módulo de pilotagem do ptracks 
 
-Documento versão: 0.01 (checar a necessidade de versão do documento)
 
 ## Execução do piloto
 
@@ -58,7 +57,11 @@ Com isso inicia a interface de pilotagem
 
 ### Alterar a direção da aeronave
 
-1. Selecione a aeronave na lista de de Voos
+- Selecione a aeronave na lista de de Voos
+
+![alt tag] (https://github.com/contemmcm/ptracks/blob/master/seleciona-aeronave.png)
+
+
 2. Em comandos clique na opção "direção"
 3. Abrirá uma caixa de dialogo com opções de Sentido, Direção e Razão de Curva
 (inserir a imagem)
