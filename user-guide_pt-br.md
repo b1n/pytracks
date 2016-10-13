@@ -50,7 +50,7 @@ Com isso inicia a interface de pilotagem
 ![alt tag] (https://github.com/contemmcm/ptracks/blob/master/execucao.png)
 
 
-6.Histórico de Comandos: armazena os comandos executados
+- Histórico de Comandos: armazena os comandos executados
 
 ![alt tag] (https://github.com/contemmcm/ptracks/blob/master/historico.png)
 
