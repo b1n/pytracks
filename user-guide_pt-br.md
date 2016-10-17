@@ -58,7 +58,6 @@ Com isso inicia a interface de pilotagem
 ### Alterar a direção da aeronave
 
 1. Selecione a aeronave na lista de de Voos
-
 ![alt tag] (https://github.com/contemmcm/ptracks/blob/master/seleciona-aeronave.png)
 
 2. Em comandos clique na opção "direção"
@@ -68,7 +67,7 @@ Com isso inicia a interface de pilotagem
 
 4. Confirme clicando em "ok"
 
-5. Observe que o campo "Execução de comandos" está com o comando escolhido. Execute o comando clicando no botão do "visto"
+5. Observe que o campo "Execução de comandos" está com o comando escolhido. Execute o comando clicando no botão do "visto":
 ![alt tag] (https://github.com/contemmcm/ptracks/blob/master/direcao-comandos.png)
 
 6. O comando executado aparecerá na lista de histórico de comandos executados
