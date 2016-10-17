@@ -68,7 +68,7 @@ Com isso inicia a interface de pilotagem
 4. Confirme clicando em "ok"
 
 5. Observe que o campo "Execução de comandos" está com o comando escolhido. Execute o comando clicando no botão do "visto"
-![alt tag] (https://github.com/contemmcm/ptracks/blob/master/direcao-comandos.png)
+![alt tag] (https://github.com/contemmcm/ptracks/blob/master/direcao-comando.png)
 
 6. O comando executado aparecerá na lista de histórico de comandos executados
 
