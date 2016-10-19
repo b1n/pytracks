@@ -71,6 +71,7 @@ Com isso inicia a interface de pilotagem
 ![alt tag] (https://github.com/contemmcm/ptracks/blob/master/direcao-comando.png)
 
 6. O comando executado aparecerá na lista de histórico de comandos executados
+![alt tag] (https://github.com/contemmcm/ptracks/blob/master/historico-direcao.png)
 
 ### Alterar a velocidade da aeronave
 
