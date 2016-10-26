@@ -1935,6 +1935,95 @@
         </breakpoint>
     </trajetoria>
 
+    <trajetoria nTrj="2003">
+        <descricao>001 - LUZ / ALINA</descricao>
+	<breakpoint nBrk="1">
+	<coord>
+	<tipo>L</tipo>
+	<campoA>-15.509333</campoA>
+	<campoB>-48.187651</campoB>
+	</coord>
+	<altitude>10000</altitude>
+	<velocidade>210</velocidade>
+        </breakpoint>
+
+        <breakpoint nBrk="2">
+            <coord>
+                <tipo>L</tipo>
+                <campoA>-16.043900</campoA>
+                <campoB>-48.268675</campoB>
+            </coord>
+            <altitude>10000</altitude>
+            <velocidade>210</velocidade>
+        </breakpoint>
+
+	<breakpoint nBrk="3">
+            <coord>
+                <tipo>L</tipo>
+                <campoA>-16.043241</campoA>
+                <campoB>-47.338271</campoB>
+            </coord>
+            <altitude>10000</altitude>
+            <velocidade>210</velocidade>
+        </breakpoint>
+
+	<breakpoint nBrk="4">
+            <coord>
+                <tipo>L</tipo>
+                <campoA>-15.504370</campoA>
+                <campoB>-47.422728</campoB>
+            </coord>
+            <altitude>10000</altitude>
+            <velocidade>210</velocidade>
+        </breakpoint>
+    </trajetoria>
+
+    <trajetoria nTrj="2004">
+        <descricao>002 - LUZ / ALINA</descricao>
+
+	<breakpoint nBrk="1">
+	<coord>
+	<tipo>L</tipo>
+	<campoA>-16.043900</campoA>
+	<campoB>-48.268675</campoB>
+	</coord>
+	<altitude>10000</altitude>
+	<velocidade>210</velocidade>
+        </breakpoint>
+
+	<breakpoint nBrk="2">
+	<coord>
+	<tipo>L</tipo>
+	<campoA>-16.043241</campoA>
+	<campoB>-47.338271</campoB>
+	</coord>
+	<altitude>10000</altitude>
+	<velocidade>210</velocidade>
+        </breakpoint>
+
+	<breakpoint nBrk="3">
+	<coord>
+	<tipo>L</tipo>
+	<campoA>-15.504370</campoA>
+	<campoB>-47.422728</campoB>
+	</coord>
+	<altitude>10000</altitude>
+	<velocidade>210</velocidade>
+        </breakpoint>
+
+	<breakpoint nBrk="4">
+	<coord>
+	<tipo>L</tipo>
+	<campoA>-15.509333</campoA>
+	<campoB>-48.187651</campoB>
+	</coord>
+	<altitude>10000</altitude>
+	<velocidade>210</velocidade>
+        </breakpoint>
+
+    </trajetoria>
+
+
 
 
 	<trajetoria nTrj="4000">
