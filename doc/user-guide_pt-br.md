@@ -18,7 +18,7 @@ ptracks-pilot
 
 Com isso inicia a interface de pilotagem
 
-![alt tag] (https://github.com/contemmcm/ptracks/blob/master/pilot.png)
+![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/pilot.png)
 
 
 ### Identificação dos itens de pilotagem (Contribuição do Alexandre Magno, Me.)
@@ -26,52 +26,52 @@ Com isso inicia a interface de pilotagem
 
 - Lista de Voos: processa e apresenta informações como: ICAO ID, Calssign, SSR, PRF, Latitude, Longitude, Proa, Velocidade, Razão e AGE. Essas informaçõpes são obtidas através de trocas de mensagens entre a IHM Piloto e o sistema “newton”.
 
-![alt tag] (https://github.com/contemmcm/ptracks/blob/master/lista-voo.png)
+![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/lista-voo.png)
 
 
 - Fichas de Progessão de Voo (Strips): local que será apresentado o plano de voo das aeronaves.
 
-![alt tag] (https://github.com/contemmcm/ptracks/blob/master/strips.png)
+![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/strips.png)
 
 
 - Status: apresenta o procedimento que a aeronave está cumprindo.
 
-![alt tag] (https://github.com/contemmcm/ptracks/blob/master/status.png)
+![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/status.png)
  
 
 - Comandos: será composto por uma área de botões que compreende os comandos: Direção, Velocidade, Altitude, Trajetória, Dir. Fixo, Espera, Aproximação, Apx.Perdida, ILS, Pouso, Decolagem, Cancdela, SSR, SPI e EMG.
 
-![alt tag] (https://github.com/contemmcm/ptracks/blob/master/comandos.png)
+![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/comandos.png)
 
 
 - Execução de Comandos ( √ ): recebe uma cadeia de comandos a serem executados.
 
-![alt tag] (https://github.com/contemmcm/ptracks/blob/master/execucao.png)
+![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/execucao.png)
 
 
 - Histórico de Comandos: armazena os comandos executados
 
-![alt tag] (https://github.com/contemmcm/ptracks/blob/master/historico.png)
+![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/historico.png)
 
 
 
 ### Alterar a direção da aeronave
 
 1. Selecione a aeronave na lista de de Voos
-![alt tag] (https://github.com/contemmcm/ptracks/blob/master/seleciona-aeronave.png)
+![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/seleciona-aeronave.png)
 
 2. Em comandos clique na opção "direção"
 
 3. Abrirá uma caixa de dialogo com opções de Sentido, Direção e Razão de Curva. Escolha as opções desejadas, observe que ao selecionar, aparece o comando correspondente a escolha feita 
-![alt tag] (https://github.com/contemmcm/ptracks/blob/master/direcao.png)
+![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/direcao.png)
 
 4. Confirme clicando em "ok"
 
 5. Observe que o campo "Execução de comandos" está com o comando escolhido. Execute o comando clicando no botão do "visto"
-![alt tag] (https://github.com/contemmcm/ptracks/blob/master/direcao-comando.png)
+![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/direcao-comando.png)
 
 6. O comando executado aparecerá na lista de histórico de comandos executados
-![alt tag] (https://github.com/contemmcm/ptracks/blob/master/historico-direcao.png)
+![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/historico-direcao.png)
 
 ### Alterar a velocidade da aeronave
 
