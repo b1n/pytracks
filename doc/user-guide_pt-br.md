@@ -4,7 +4,7 @@ Guia de uso do módulo de pilotagem do ptracks
 
 ## Execução do piloto
 
-Para executar o módulo, é necessário iniciar uma simulação de tráfego aereo. Detalhes de como proceder a inicialização de uma simulação podem ser enontradas [Clicando Aqui](ptracks/README.md)
+Para executar o módulo, é necessário iniciar uma simulação de tráfego aéreo. Detalhes de como proceder a inicialização de uma simulação podem ser encontradas [Clicando Aqui](ptracks/README.md)
 
 Agora é possível executar o piloto com o seguinte comando:
 
@@ -21,7 +21,7 @@ Com isso inicia a interface de pilotagem, conforme a figura abaixo:
 
 A seguir são descritos os principais componentes que constituem a tela de pilotagem mostrada anteriormente.
 
-- Lista de Voos: processa e apresenta informações como: ICAO ID, Calssign, SSR, PRF, Latitude, Longitude, Proa, Velocidade, Razão e AGE, como mostra a figura abaixo. Essas informaçõpes são obtidas através de trocas de mensagens entre a IHM Piloto e o sistema “newton”;
+- Lista de Voos: processa e apresenta informações como: ICAO ID, Calssign, SSR, PRF, Latitude, Longitude, Proa, Velocidade, Razão e AGE, como mostra a figura abaixo. Essas informações são obtidas através de trocas de mensagens entre a IHM Piloto e o sistema “newton”;
 
 ![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/lista-voo.png)
 
@@ -72,7 +72,7 @@ A seguir são descritos os principais componentes que constituem a tela de pilot
 ![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/historico.png)
 
 
-## Altereando comportamento da aeronave
+## Alterando comportamento da aeronave
 Este capítulo se destina a apresentar os principais parâmetros de navegação que se pode alterar através do Piloto.
 
 ### Alterar a direção da aeronave
@@ -121,7 +121,7 @@ Para alterar a direção em que a aeronave está se descolocando na simulação,
 ### Alterar a trajetória da aeronave
 
 1. Selecione a aeronave na lista de de Voos;
-2. Em comandos clique na opção "trajetoria";
+2. Em comandos clique na opção "trajetória";
 3. Abrirá uma caixa de diálogo para selecionar a trajetória, como mostra a figura a seguir;
 ![trajetoria](https://github.com/contemmcm/ptracks/blob/shikataleonardo-patch-1/doc/figs/trajetorias.png)
 4. Escolha  a trajetória dentro da lista de opções disponíveis, observe que ao selecionar, aparece o comando correspondente a escolha feita;
@@ -149,7 +149,7 @@ Esta opção, apesar de disponível, não exibe alternativas de fixos disponíve
 
 Observações:
 
-1. Os botões de apromixação, apx.perdida, ils, decolagem, cancela, SSR, SPI e EMG estão desabilitados, assim como os botões abaixo do histórico dos comandos;
+1. Os botões de aproximação, apx.perdida, ils, decolagem, cancela, SSR, SPI e EMG estão desabilitados, assim como os botões abaixo do histórico dos comandos;
 
 2. o botão de pouso está habilitado mas nenhum comando é exibido.
 
