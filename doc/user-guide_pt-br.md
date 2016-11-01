@@ -21,7 +21,19 @@ Com isso inicia a interface de pilotagem, conforme a figura abaixo:
 
 A seguir são descritos os principais componentes que constituem a tela de pilotagem mostrada anteriormente.
 
-- Lista de Voos: processa e apresenta informações como: ICAO ID, Calssign, SSR, PRF, Latitude, Longitude, Proa, Velocidade, Razão e AGE, como mostra a figura abaixo. Essas informações são obtidas através de trocas de mensagens entre a IHM Piloto e o sistema “newton”;
+- Lista de Voos: processa e apresenta informações como:
+ * ICAO ID;
+ * Calssign;
+ * SSR;
+ * PRF;
+ * Latitude;
+ * Longitude;
+ * Proa;
+ * Velocidade;
+ * Razão;
+ * AGE.
+ 
+ A figura abixo mostra a tabela com essas infomrmações que são obtidas através de trocas de mensagens entre a IHM Piloto e o sistema “newton".
 
 ![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/lista-voo.png)
 
