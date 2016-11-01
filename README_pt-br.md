@@ -48,6 +48,8 @@ Em seguida para modificar o curso da aeronave na simulação, faça:
 ptracks-pilot
 ```
 
+<Acho que seria interessante colocar o link para o guia de pilotagem para alguém que queira maiores detalhes>
+
 Para encerrar a simulação, faça:
 
 ```
