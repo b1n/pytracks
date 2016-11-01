@@ -9,7 +9,7 @@ Para a instalar o Gerador de rotas para controle de tráfego aéreo, inicialize 
 
 ### Requisistos
 
-O correto funcionamento do gerador depende dos seguintes módulos previamente instalados:
+O correto funcionamento do gerador depende da isntalação dos seguintes módulos previamente instalados:
 
  * git
  * mpi4py
@@ -68,6 +68,8 @@ ptracks-pilot
 <Acho que seria interessante colocar o link para o guia de pilotagem para alguém que queira maiores detalhes>
 
 Para instruções detalhadas de como realizar a pilotagem das aeronaves simuladas [clique aqui](ptracks/doc/user-guide_pt-br.md)
+
+### Saindo da simulação
 
 Para encerrar a simulação, faça:
 
