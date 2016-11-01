@@ -38,7 +38,11 @@ A seguir são descritos os principais componentes que constituem a tela de pilot
 ![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/lista-voo.png)
 
 
-- Fichas de Progressão de Voo (Strips): local que será apresentado o plano de voo das aeronaves no formato mostrado a seguir;
+- Fichas de Progressão de Voo (Strips): local que será apresentado o plano de voo das aeronaves no formato mostrado a seguir, com as seguintes informções:
+ 1. Número do voo;
+ 2. Aeroporto de origem;
+ 3. Aeroporto de destino; ...
+ 
 
 ![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/strips.png)
 
