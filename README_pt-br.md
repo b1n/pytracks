@@ -50,6 +50,12 @@ ptracks-pilot
 
 <Acho que seria interessante colocar o link para o guia de pilotagem para alguém que queira maiores detalhes>
 
+Para instruções detalhadas de como realizar a pilotagem das aeronaves simuladas [clique aqui](ptracks/doc/user-guide_pt-br.md)
+
+```
+ ptracks/doc/user-guide_pt-br.md 
+```
+
 Para encerrar a simulação, faça:
 
 ```
