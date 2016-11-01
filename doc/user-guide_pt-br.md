@@ -4,12 +4,7 @@ Guia de uso do módulo de pilotagem do ptracks
 
 ## Execução do piloto
 
-Para executar o módulo, é necessário iniciar uma simulação de tráfego aereo. Detalhes de como proceder a inicialização de uma simulação podem ser enontradas [Clicando Aqui]( ptracks/README.md)
-<Desta forma execute a simulação e especifique o exercício que será executado. No exemplo abaixo, o exercício COREDEMO é usado:>
-
-<```
-<service ptracks start COREDEMO>
-```>
+Para executar o módulo, é necessário iniciar uma simulação de tráfego aereo. Detalhes de como proceder a inicialização de uma simulação podem ser enontradas [Clicando Aqui](ptracks/README.md)
 
 Agora é possível executar o piloto com o seguinte comando:
 
