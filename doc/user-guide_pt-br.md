@@ -95,19 +95,23 @@ Este capítulo se destina a apresentar os principais parâmetros de navegação 
 Para alterar a direção em que a aeronave está se descolocando na simulação, são necessários os seguintes passos:
 
 1. Selecione a aeronave na lista de de Voos;
+
 ![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/seleciona-aeronave.png)
 
 2. Em comandos clique na opção "direção". Abrirá uma caixa de dialogo com opções de Sentido, Direção e Razão de Curva como a mostrada na figura a seguir;
 
 3. Escolha as opções desejadas, observe que ao selecionar, aparece o comando correspondente a escolha feita, no espaço destacado da figura;
+
 ![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/direcao.png)
 
 4. Confirme clicando em "ok";
 
 5. Observe que o campo "Execução de comandos" está com o comando escolhido. Execute o comando clicando no botão do " √ ";
+
 ![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/direcao-comando.png)
 
 6. O comando executado aparecerá na lista de histórico de comandos executados conforme pode ser visto na região em destaque da figura abaixo.
+
 ![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/historico-direcao.png)
 
 ### Alterar a velocidade da aeronave
@@ -115,7 +119,9 @@ Para alterar a direção em que a aeronave está se descolocando na simulação,
 1. Selecione a aeronave na lista de de Voos;
 2. Em comandos clique na opção "velocidade";
 3. Abrirá uma caixa de dialogo com a opção de Velocidade, conforme pode ser visto na figura abaixo;
+
 ![velocidade](https://github.com/contemmcm/ptracks/blob/shikataleonardo-patch-1/doc/figs/velocidade.png)
+
 4. Escolha a velocidade, observe que ao selecionar, aparece o comando correspondente a escolha feita. Note que a velocidade é limitada a um máximo determinada pelo tipo de aeronave selecionada;
 5. Confirme clicando em "ok";
 6. Observe que o campo "Execução de comandos" está com o comando escolhido. Execute o comando clicando no botão do " √ ";
@@ -127,7 +133,9 @@ Para alterar a direção em que a aeronave está se descolocando na simulação,
 1. Selecione a aeronave na lista de de Voos;
 2. Em comandos clique na opção "altitude";
 3. Abrirá uma caixa de dialogo com opções de Altitude e Razão, como mostra a figura abaixo;
+
 ![altitude](https://github.com/contemmcm/ptracks/blob/shikataleonardo-patch-1/doc/figs/altitude.png)
+
 4. Escolha  as opções desejadas, observe que ao selecionar, aparece o comando correspondente a escolha feita;
 5. Confirme clicando em "ok";
 6. Observe que o campo "Execução de comandos" está com o comando escolhido. Execute o comando clicando no botão do " √ ";
@@ -139,7 +147,9 @@ Para alterar a direção em que a aeronave está se descolocando na simulação,
 1. Selecione a aeronave na lista de de Voos;
 2. Em comandos clique na opção "trajetória";
 3. Abrirá uma caixa de diálogo para selecionar a trajetória, como mostra a figura a seguir;
+
 ![trajetoria](https://github.com/contemmcm/ptracks/blob/shikataleonardo-patch-1/doc/figs/trajetorias.png)
+
 4. Escolha  a trajetória dentro da lista de opções disponíveis, observe que ao selecionar, aparece o comando correspondente a escolha feita;
 5. Confirme clicando em "ok";
 6. Observe que o campo "Execução de comandos" está com o comando escolhido. Execute o comando clicando no botão do " √ ";
@@ -149,6 +159,7 @@ Para alterar a direção em que a aeronave está se descolocando na simulação,
 ### Alterar o dir.fixo da aeronave
 
 Esta opção, apesar de disponível, não exibe alternativas de fixos disponíveis para alteração, sendo a tela aberta após clicar "dir.fixo", no conjunto de botões de comando, é mostrada a seguir.
+
 ![fixo](https://github.com/contemmcm/ptracks/blob/shikataleonardo-patch-1/doc/figs/fixos.png)
 
 ### Alterar a espera da aeronave
@@ -157,6 +168,7 @@ Esta opção, apesar de disponível, não exibe alternativas de fixos disponíve
 2. Em comandos clique na opção "espera";
 3. Abrirá uma caixa de dialogo para selecionar a trajetória, mostrada na figura a seguir;
 ![espera](https://github.com/contemmcm/ptracks/blob/shikataleonardo-patch-1/doc/figs/espera.png)
+
 4. Escolha  a trajetória de espera dentro das opções disponíveis na lista e observe que ao selecionar, aparece o comando correspondente a escolha feita;
 5. Confirme clicando em "ok";
 6. Observe que o campo "Execução de comandos" está com o comando escolhido. Execute o comando clicando no botão do " √ ";
