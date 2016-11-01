@@ -8,7 +8,7 @@ Para executar o módulo, é necessário iniciar uma simulação de tráfego aere
 <Desta forma execute a simulação e especifique o exercício que será executado. No exemplo abaixo, o exercício COREDEMO é usado:>
 
 <```
-service ptracks start COREDEMO
+<service ptracks start COREDEMO>
 ```>
 
 Agora é possível executar o piloto com o seguinte comando:
