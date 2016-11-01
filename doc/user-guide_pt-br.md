@@ -83,7 +83,7 @@ Para alterar a direção em que a aeronave está se descolocando na simulação,
 1. Selecione a aeronave na lista de de Voos
 2. Em comandos clique na opção "velocidade"
 3. Abrirá uma caixa de dialogo com a opção de Velocidade, conforme pode ser visto na figura abaixo.
-![alt tag]
+![alt tag](https://github.com/contemmcm/ptracks/blob/master/doc/figs/velocidade.png)
 4. Escolha a velocidade, observe que ao selecionar, aparece o comando correspondente a escolha feita. Note que a velocidade é limitada a um máximo determinada pelo tipo de aeronave selecionada.
 5. Confirme clicando em "ok"
 6. Observe que o campo "Execução de comandos" está com o comando escolhido. Execute o comando clicando no botão do " √ "
