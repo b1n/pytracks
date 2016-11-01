@@ -35,8 +35,29 @@ A seguir são descritos os principais componentes que constituem a tela de pilot
 
 ![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/status.png)
  
+ onde:
+ 
+  * TRJ representa...
+  * 001 representa...
 
-- Comandos: é composto por uma área de botões que compreende os comandos: Direção, Velocidade, Altitude, Trajetória, Dir. Fixo, Espera, Aproximação, Apx.Perdida, ILS, Pouso, Decolagem, Cancdela, SSR, SPI e EMG, distribuidos no layout mostrado a seguir;
+- Comandos: é composto por uma área de botões que compreende as seguintes funcionalidades: 
+ * Direção;
+ * Velocidade;
+ * Altitude;
+ * Trajetória;
+ * Dir. Fixo;
+ * Espera;
+ * Aproximação;
+ * Apx.Perdida;
+ * ILS (desabilitado);
+ * Pouso (desabilitado);
+ * Decolagem (desabilitado);
+ * Cancela (desabilitado);
+ * SSR (desabilitado);
+ * SPI (desabilitado);
+ * EMG (desabilitado).
+ 
+ Distribuidos no layout mostrado a seguir.
 
 ![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/comandos.png)
 
