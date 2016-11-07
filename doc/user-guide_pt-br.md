@@ -94,8 +94,8 @@ Para alterar a direção em que a aeronave está se descolocando na simulação,
 ![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/seleciona-aeronave.png)
 
 2. Em comandos clique na opção "direção". Abrirá uma caixa de dialogo com opções de Sentido, Direção e Razão de Curva como a mostrada na figura a seguir;
-3. Escolha as opções desejadas, observe que ao selecionar, aparece o comando correspondente a escolha feita, no espaço destacado da figura;
 
+3. Escolha as opções desejadas, observe que ao selecionar, aparece o comando correspondente a escolha feita, no espaço destacado da figura;
 ![alt tag] (https://github.com/contemmcm/ptracks/blob/master/doc/figs/direcao.png)
 
 4. Confirme clicando em "ok";
