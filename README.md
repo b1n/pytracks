@@ -32,6 +32,7 @@ git clone https://github.com/contemmcm/ptracks.git
 ```
 cd ptracks
 sudo ./install
+sudo update-rc.d ptracks-net defaults
 ```
 
 ### Quick Start

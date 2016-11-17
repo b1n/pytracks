@@ -1,0 +1,40 @@
+#!/bin/sh
+SERVICE_NAME=ptracks-net
+PID_PATH_NAME=/tmp/ptracks-net.pid
+PORT=5006
+
+# Colors
+COLOR_OFF='\033[0m'       # Text Reset
+RED='\033[0;31m'          # Red
+GREEN='\033[0;32m'        # Green
+
+case $1 in
+    start)
+
+        printf " * Starting $SERVICE_NAME\n"
+        if [ ! -f $PID_PATH_NAME ]; then
+            sleep 1
+            nohup python -m ptracks.netserver $PORT 2>> /dev/null >> /dev/null & echo $! > $PID_PATH_NAME
+
+			# OK
+            printf " * $GREEN[ok]$COLOR_OFF\n"
+
+        else
+            printf " * $RED[already running]$COLOR_OFF\n"
+        fi
+    ;;
+    stop)
+    	printf " * Stopping $SERVICE_NAME\n"
+        if [ -f $PID_PATH_NAME ]; then
+        	sleep 1
+            PID=$(cat $PID_PATH_NAME);
+            sudo kill -9 $PID;
+            sudo rm $PID_PATH_NAME
+            sudo kill -9 `ps -ef | grep "ptracks.netserver" | grep -v grep | awk '{print $2}'`
+
+            printf " * $GREEN[ok]$COLOR_OFF\n"
+        else
+            printf " * $RED[not running]$COLOR_OFF\n"
+        fi
+    ;;
+esac

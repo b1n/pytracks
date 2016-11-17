@@ -28,6 +28,7 @@ ln -s `pwd`/public_html /etc/ptracks/public_html
 echo "Creating /etc/init.d/ptracks script"
 rm -rf /etc/init.d/ptracks
 ln -s `pwd`/bin/ptracks-daemon /etc/init.d/ptracks
+ln -s `pwd`/bin/ptracks-net /etc/init.d/ptracks-net
 
 #
 # System binaries
