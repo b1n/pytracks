@@ -20,7 +20,7 @@ sudo apt-get install git python-mpi4py python-qt4
 
 ### Download
 
-Please download the lastest version from git-hub:
+Please download the latest version from git-hub:
 
 ```
 git clone https://github.com/contemmcm/ptracks.git
@@ -37,10 +37,10 @@ sudo update-rc.d ptracks-net defaults
 
 ### Quick Start
 
-Initialize the simulation and specify the exercise to execute. In the example below, the exercise COREDEMO is used:
+Initialize the simulation and specify the exercise to execute. In the example below, the exercise SBBR is used:
 
 ```
-service ptracks start COREDEMO
+service ptracks start SBBR
 ```
 
 Open a browser and go to http://localhost:61000/ to see the web interface of the simulation.
